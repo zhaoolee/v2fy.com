@@ -1,5 +1,5 @@
 ---
-title:  《跨平台》跨平台免费软件工具推荐
+title: 《跨平台》跨平台免费软件工具推荐
 categories:
 - 珍贵稀缺资源
 ---
@@ -75,8 +75,6 @@ linux专用下载页面: https://pinyin.sogou.com/linux/?r=pinyin
 下载地址: https://splashy.art/
 
 
-
-
 ## 浏览器Chrome
 
 ![](https://v2fy.com/asset/win-mac-liunx/chrome.png)
@@ -85,7 +83,6 @@ linux专用下载页面: https://pinyin.sogou.com/linux/?r=pinyin
 
 
 
----
 
 **跨平台软件的未来在哪里？未来的眼界看「几里」？**
 
@@ -177,5 +174,3 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 
 「几里」在线工具秘籍VI由「老罗巴扎嘿」提供设计 
-
-

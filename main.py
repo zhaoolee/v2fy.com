@@ -112,7 +112,7 @@ def edit_post(id, title, content, link, post_status, terms_names_post_tag, terms
         terms_names_post_tag, 
         terms_names_category)
     res = wp.call(EditPost(id, post_obj))
-    print(res)
+    print('==edit_post==res', res)
 
 # 获取markdown文件中的内容
 def read_md(file_path):
@@ -122,7 +122,7 @@ def read_md(file_path):
         post = frontmatter.load(f)
         content = post.content
         metadata = post.metadata
-        print("==>>", post.content)
+        # print("==>>", post.content)
         print("===>>", post.metadata)
     return (content, metadata)
 
@@ -171,6 +171,25 @@ def get_md_sha1_dic(file):
         write_dic_info_to_file({}, file)
     return result
 
+# 更新文件hash
+
+def update_md_sha1_dic(hash_file, md_file):
+
+    md_sha1_dic = read_dic_from_file(hash_file)
+    key = os.path.basename(md_file).split(".")[0]
+    value = get_sha1(md_file)
+
+    md_sha1_dic[key] = {
+        "hash_value": value,
+        "file_name": key,
+        "encode_file_name": urllib.parse.quote(key, safe='').lower(),
+        "update_time":  time.strftime('%Y-%m-%d-%H-%M-%S')
+    }
+
+    write_dic_info_to_file(md_sha1_dic, hash_file)
+
+
+
 # 重建md_sha1_dic,将结果写入.md_sha1
 def rebuild_md_sha1_dic(file, md_dir):
     md_sha1_dic = {}
@@ -186,9 +205,6 @@ def rebuild_md_sha1_dic(file, md_dir):
             "encode_file_name": urllib.parse.quote(key, safe='').lower()
         }
 
-
-
-    md_sha1_dic["update_time"] =  time.strftime('%Y-%m-%d-%H-%M-%S')
     write_dic_info_to_file(md_sha1_dic, file)
 
 def post_link_id_list_2_link_id_dic(post_link_id_list):
@@ -196,7 +212,6 @@ def post_link_id_list_2_link_id_dic(post_link_id_list):
     for post in post_link_id_list:
         link_id_dic[post["link"]] = post["id"]
     return link_id_dic
-
 
 def href_info(link):
     return "<br/><br/><br/>\n\n\n\n## 本文永久更新地址: \n[" + link + "](" + link + ")"
@@ -227,9 +242,7 @@ def insert_index_info_in_readme():
 
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
-
     print("==new_readme_md_content==>>", new_readme_md_content)
-
     return True
 
 def main():
@@ -238,6 +251,10 @@ def main():
     print(post_link_id_list)
     link_id_dic = post_link_id_list_2_link_id_dic(post_link_id_list)
     print(link_id_dic)
+    # link_id_dic_str = json.dumps(link_id_dic)   
+    # link_id_dic_str_json_file = open(os.path.join(os.getcwd(), "link_id_dic_str" + time.strftime('%Y-%m-%d-%H-%M-%S') +".json"), 'w')  
+    # link_id_dic_str_json_file.write(link_id_dic_str)  
+    # link_id_dic_str_json_file.close()
     # 2. 获取md_sha1_dic
     # 查看目录下是否存在md_sha1.txt,如果存在则读取内容；
     # 如果不存在则创建md_sha1.txt,内容初始化为{}，并读取其中的内容；
@@ -247,14 +264,13 @@ def main():
     # 3. 开始同步
     # 读取_posts目录中的md文件列表
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
-
-    for md in md_list:
-        # 计算md文件的sha1值，并与md_sha1_dic做对比
+    for index, md in enumerate(md_list):
+        print("==当前进度==", str(index) +"/"+ str(len(md_list)), '开始同步==', md)
         sha1_key = os.path.basename(md).split(".")[0]
         sha1_value = get_sha1(md)
         # 如果sha1与md_sha1_dic中记录的相同，则打印：XX文件无需同步;
         if((sha1_key in md_sha1_dic.keys()) and ("hash_value" in md_sha1_dic[sha1_key]) and (sha1_value == md_sha1_dic[sha1_key]["hash_value"])):
-            print(md+"无需同步")
+            print("==无需同步"+"md")
         # 如果sha1与md_sha1_dic中记录的不同，则开始同步
         else:
             # 读取md文件信息
@@ -267,6 +283,8 @@ def main():
             link = urllib.parse.quote(sha1_key , safe='').lower() 
             content = markdown.markdown(content + href_info("https://"+domain_name+"/p/"+link+"/"), extensions=['tables', 'fenced_code'])
             # 如果文章无id,则直接新建
+
+            print("==!!key", "https://"+domain_name+"/p/"+link+"/" )
             if(("https://"+domain_name+"/p/"+link+"/" in link_id_dic.keys()) == False):
                 new_post(title, content, link, post_status, terms_names_post_tag, terms_names_category)
                 print("new_post==>>", {
@@ -281,8 +299,6 @@ def main():
             else:
                 # 获取id
                 id = link_id_dic["https://"+domain_name+"/p/"+link+"/"]
-                edit_post(id, title, content, link, post_status, terms_names_post_tag, terms_names_category)
-
                 print("edit_post==>>", {
                     "id": id, 
                     "title": title, 
@@ -291,11 +307,13 @@ def main():
                     "post_status": post_status, 
                     "terms_names_post_tag": terms_names_post_tag,
                     "terms_names_category": terms_names_category
-                });
-
-    # 4. 重建md_sha1_dic
-    rebuild_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"), os.path.join(os.getcwd(), "_posts"))
-    # 5. 将链接信息写入insert_index_info_in_readme
+                })
+                edit_post(id, title, content, link, post_status, terms_names_post_tag, terms_names_category)
+                # 将当前更新完成的文章hash写入.md_sha1
+                update_md_sha1_dic(os.path.join(os.getcwd(), ".md_sha1"), md)
+                print("==完成同步"+ md)
+            
+    # 4. 将链接信息写入insert_index_info_in_readme
     insert_index_info_in_readme()
 
 main()
