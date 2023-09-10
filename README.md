@@ -356,6 +356,8 @@
 
 [《弹幕》有哪些搞笑的弹幕？](https://v2fy.com/p/barrage-000001/)
 
+[提示数据库安全性小技巧，使用SSH配合开源DBeaver工具连接数据库](https://v2fy.com/p/2023-09-10-16-24-21-mysql-dbeaver-ssh/)
+
 [Ubuntu 22.04软件折腾笔记（2023年9月8日更新）](https://v2fy.com/p/2023-09-08-09-27-07-ubuntu-22-04/)
 
 [备案后的个人站长如何在夹缝中求生存，V2方圆添加cloudflare,天翼云的每日网站违规电话终于停了](https://v2fy.com/p/2023-09-07-11-30-00-cloudflare/)
