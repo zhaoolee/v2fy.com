@@ -1,5 +1,5 @@
 ---
-title: 提示数据库安全性小技巧，使用SSH配合开源DBeaver工具连接数据库
+title: 提升数据库安全性小技巧，使用SSH配合开源DBeaver工具连接数据库
 categories:
 - 独立博客的方方面面
 ---
