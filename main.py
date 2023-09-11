@@ -220,17 +220,35 @@ def href_info(link):
 def insert_index_info_in_readme():
     # 获取_posts下所有markdown文件
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
+    new_posts = wp.call(GetPosts({'post_type': 'post', 'number': 1000000000}))
+    new_post_link_id_list = []
+    for post in new_posts:
+        md_file_name = post.link.split("/")[-2] + ".md"
+        new_post_link_id_list.append({
+            "id": post.id,
+            "link": post.link,
+            "date": post.date,
+            "title": post.title,
+            "md_file_name": md_file_name
+        })
+    print('==new_post_link_id_list==', new_post_link_id_list)
     # 生成插入列表
     insert_info = ""
-    md_list.sort(reverse=True)
-    # 读取md_list中的文件标题
+    # 创建只包含markdown文件名的列表
+    pure_md_file_list = []
     for md in md_list:
-        (content, metadata) = read_md(md)
-        title = metadata.get("title", "")
-        insert_info = insert_info + "[" + title +"](" + "https://"+domain_name + "/p/" + os.path.basename(md).split(".")[0] +"/" + ")\n\n"
+        pure_md_file_list.append(os.path.basename(md))
+
+    post_num = 0
+    for new_post in new_post_link_id_list:
+        if(new_post["md_file_name"] in pure_md_file_list):
+            post_num = post_num + 1
+            insert_info = insert_info + "[" + new_post["title"] +"](" + "https://"+ domain_name + "/p/" + new_post["md_file_name"].split(".")[0] +"/" + ")\n\n"
+
+
     # 替换 ---start--- 到 ---end--- 之间的内容
 
-    insert_info = "---start---\n## 目录(" + time.strftime('%Y年%m月%d日') + "更新)" +"\n" + insert_info + "---end---"
+    insert_info = "---start---\n## 目录(" + time.strftime('%Y年%m月%d日') + "更新, 本仓库共管理" + str(post_num) + "篇文章" +")" +"\n" + insert_info + "---end---"
 
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
