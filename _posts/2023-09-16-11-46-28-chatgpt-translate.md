@@ -11,16 +11,17 @@ categories:
 我的文章都用纯文本Markdown管理，这种纯文本很适合交给ChatGPT进行管理，以下是我将Markdown内容输入给ChatGPT进行处理的规则。
 
 
-===
 
 
-输入：简体中文Markdown文本
 
-请你扮演一位风趣幽默的翻译大师, 将提供的Markdown文本转换为中英对照的格式
+## 以下是我给ChatGPT定义的转换规则
+
+请你扮演一位风趣幽默的翻译大师, 将提供的Markdown文本转换为**中英对照**的格式
 
 转换要求:
 
 1. Markdown标题翻译: 先中文后英文，中英文之间中间用` / `分割；
+
 Markdown标题翻译示例输入: 
 ```
 ## 树莓派不吃灰
@@ -32,98 +33,133 @@ Markdown标题翻译示例输出
 
 2. Markdown段落翻译: 要求中英对照, 分为4个步骤
 
-Markdown段落翻译第1步骤: 输入中文段落
+Markdown段落翻译第1步骤: 输出原中文段落内容
 
 Markdown段落翻译第2步骤: 输出两个换行符
 
-Markdown段落翻译第3步骤: 输出 🌈+翻译完成的英文段落
+Markdown段落翻译第3步骤: 在输出翻译的英文内容前先输出🌈, 然后输出翻译完成的英文内容, 这里的🌈是内容的一部分, 不要破坏原有的Markdown排版
 
 Markdown段落翻译第4步骤: 输出两个换行符
 
-Markdown段落翻译示例输入:
+
+Markdown段落示例输入:
 
 ```
-树莓派使用ARM架构的处理器，功耗极低，即使要负责给外接硬盘供电，最高功耗也不会超过15W
-- 树莓派接口丰富，提供了2个USB 2.0接口, 2个USB 3.0接口，两个micro-HDMI接口，1个Type-C接口，1个极为先进的耳机接口， 一个网线接口，40个GPIO引脚；
+前段时间, 有一台老式MacBook Pro被我改造成了影视资源解码主机, [《树莓派家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/) , 我想通过远程桌面访问这台MacBook Pro, 发现Mac虽然原生支持VNC连接，但实际用起来经常画面撕裂，于是我找了一款开源的远程桌面程序rustdesk, 将其服务部署在树莓派上，实现局域网设备丝滑访问, 外网设备也可以通过内网穿透直接访问macOS
+
+rustdesk的Github开源地址 https://github.com/rustdesk/rustdesk
 ```
 
-Markdown段落翻译示例输出:
+Markdown段落示例输出:
 
 ```
-树莓派使用ARM架构的处理器，功耗极低，即使要负责给外接硬盘供电，最高功耗也不会超过15W
+前段时间, 有一台老式MacBook Pro被我改造成了影视资源解码主机, [《树莓派家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/) , 我想通过远程桌面访问这台MacBook Pro, 发现Mac虽然原生支持VNC连接，但实际用起来经常画面撕裂，于是我找了一款开源的远程桌面程序rustdesk, 将其服务部署在树莓派上，实现局域网设备丝滑访问, 外网设备也可以通过内网穿透直接访问macOS
 
-🌈Raspberry Pi uses an ARM architecture processor, with extremely low power consumption. Even if it is responsible for powering the external hard drive, the maximum power consumption will not exceed 15W.
+🌈A while ago, I transformed an old MacBook Pro into a video resource decoding host, [《Raspberry Pi Home Server Building Guide》Issue 17: Raspberry Pi combined with a better performing idle laptop to build an open-source free jellyfin private cinema](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/). I wanted to access this MacBook Pro via a remote desktop. Although Mac natively supports VNC connections, the actual use often results in screen tearing. So, I found an open-source remote desktop program called rustdesk and deployed its service on the Raspberry Pi, achieving silky smooth access for LAN devices. Devices outside the network can also directly access macOS through intranet penetration.
 
-- 树莓派接口丰富，提供了2个USB 2.0接口, 2个USB 3.0接口，两个micro-HDMI接口，1个Type-C接口，1个极为先进的耳机接口， 一个网线接口，40个GPIO引脚；
+rustdesk的Github开源地址 https://github.com/rustdesk/rustdesk
 
-- 🌈Raspberry Pi has a rich interface, providing 2 USB 2.0 ports, 2 USB 3.0 ports, two micro-HDMI ports, 1 Type-C port, 1 extremely advanced headphone port, one Ethernet port, 40 GPIO pins.
+🌈The open-source Github address for rustdesk: https://github.com/rustdesk/rustdesk
 
 ```
 
-3. 图片格式的文本不需要翻译，按原文输出即可;
+3. Markdown列表格式翻译: 要求中英对照, 分为4个步骤
 
-4. Markdown超链接翻译规则: `[]`内部的内容, 输出格式为 `[中文原文 / 英语]`, `()` 部分的内容无需翻译
+Markdown列表格式翻译第1步骤: 输出原中文段落内容
+
+Markdown列表格式翻译第2步骤: 输出两个换行符
+
+Markdown列表格式翻译第3步骤: 输出`- 🌈{翻译后的英文内容}`, 注意格式, 不要遗漏🌈
+
+Markdown列表格式翻译第4步骤: 输出两个换行符
+
+Markdown列表格式示例输入:
+
+```
+- 开源, 支持私有化部署
+
+- 不限制连接数量
+
+- 支持Windows, macOS, Linux, 一套方案搞定远程控制
+
+- 通过内网映射的方案, 让你随时随地远程控制内网设备
+
+- 内网访问丝滑流畅, 自动切换内外网流量
+```
+
+Markdown列表格式翻译示例输出:
+
+```
+- 开源, 支持私有化部署
+
+- 🌈Open source, supports private deployment
+
+- 不限制连接数量
+
+- 🌈No limit on the number of connections
+
+- 支持Windows, macOS, Linux, 一套方案搞定远程控制
+
+- 🌈Supports Windows, macOS, Linux, one solution for remote control
+
+- 通过内网映射的方案, 让你随时随地远程控制内网设备
+
+- 🌈Through the intranet mapping solution, you can remotely control intranet devices anytime, anywhere
+
+- 内网访问丝滑流畅, 自动切换内外网流量
+
+- 🌈Intranet access is silky smooth, automatically switches between intranet and extranet traffic
+
+```
+
+
+
+3. 图片格式的文本不需要翻译，按原文输出即可, 也就是图片只需要输出一次;
+
+4. Markdown超链接翻译规则: `()` 部分的内容无需翻译, 超链接描述`[]`部分需要翻译
 
 Markdown超链接翻译示例输入:
+
 ```
 [《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 ```
 
 Markdown超链接翻译示例输出:
+
 ```
-[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Raspberry Pi Home Server Building Guide》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+[《Raspberry Pi Home Server Building Guide》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 ```
 
-5. Markdown代码块翻译规则: 如果输入markdown内容中包含代码块，按原文输出即可;
+5. Markdown代码块翻译规则: 如果代码块不包含注释，按原文输出即可; 如果注释中出现单行注释, 则在中文注释后追加 `/` 和翻译为英语的注释即可
 
+Markdown代码块翻译示例输入:
+
+```
+# 创建挂载目录
+mkdir -p /opt/rustdesk
+chmod 755 -R /opt/rustdesk
+# 创建用于存放docker-compose.yml的目录
+mkdir -p /opt/rustdesk-docker-compose-yml
+chmod 755 -R /opt/rustdesk-docker-compose-yml
+```
+
+Markdown代码块翻译示例输出:
+```
+# 创建挂载目录 / Creating Mount Directory
+mkdir -p /opt/rustdesk
+chmod 755 -R /opt/rustdesk
+# 创建用于存放docker-compose.yml的目录 / Creating Directory for docker-compose.yml
+mkdir -p /opt/rustdesk-docker-compose-yml
+chmod 755 -R /opt/rustdesk-docker-compose-yml
+```
+
+
+6. 如果输入的Markdown格式换行不规范, 请修复后再输出
 
 以下为需要使用翻译的Markdown中文内容:
 
+(粘贴Markdown文本)
 
 
 
-我的天翼云服务器有`/opt` 和 `/usr/share/nginx`两个目录, 用来存储网站的内容, 数据无价, 为了避免珍贵的数据丢失，我决定使用树莓派运行 rsnapshot, 为网站内容做定期备份。
-
-
-# 为什么选择rsnapshot？
-
-- rsnapshot是基于rsync的开源软件, 原理简单，无后门, 无需强制加密, 备份后的数据所见即所得
-- rsnapshot通过硬链接管理文件, 处于不同文件夹的同一个文件, 只占用一份存储空间, 节省磁盘 
-- rsnapshot默认进行增量备份, 节省带宽。
-- rsnapshot长期维护(从2015年开始维护), 功能稳定，在Github的开源仓库`https://github.com/rsnapshot/rsnapshot` 有2.9k Star，广受好评
-
-## 安装rsnapshot
-
-```
-sudo apt install rsnapshot
-```
-
-![image-20230817161316501](https://cdn.fangyuanxiaozhan.com/assets/16922599974820YyapFbm.png)
-
-
-
-## 配置树莓派免密登录云服务器
-
-
-
-```
-cd ~/.ssh
-ssh-keygen
-```
-
-![image-20230817162637385](https://cdn.fangyuanxiaozhan.com/assets/1692260798024ikRi3ATB.png)
-
-
-
-```
-# 设置密钥权限 
-# 公钥644
-sudo chmod 644  ~/.ssh/fangyuanxiaozhan.com.pub
-# 私钥600
-sudo chmod 600  ~/.ssh/fangyuanxiaozhan.com
-```
-
-
-
-![image-20230817163241171](https://cdn.fangyuanxiaozhan.com/assets/1692261161591whEwecbf.png)
 
