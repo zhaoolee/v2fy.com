@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2023年09月13日更新, 本仓库共管理494篇文章)
+## 目录(2023年09月16日更新, 本仓库共管理495篇文章)
+[内容出海，让ChatGPT将中文Markdown内容翻译为中英对照的格式](https://v2fy.com/p/2023-09-16-11-46-28-chatgpt-translate/)
+
 [一次rm引发的悲剧, 推荐使用trash-cli回收站二次确认后再删除数据](https://v2fy.com/p/2023-09-13-13-14-39-trash-put/)
 
 [提升数据库安全小技巧，使用SSH配合开源DBeaver工具连接数据库](https://v2fy.com/p/2023-09-10-16-24-21-mysql-dbeaver-ssh/)
