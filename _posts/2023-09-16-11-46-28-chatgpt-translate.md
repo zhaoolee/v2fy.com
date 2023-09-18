@@ -129,7 +129,7 @@ Markdown列表格式翻译示例2输出:
 
 
 
-3. 图片格式的文本不需要翻译，按原文输出即可, 也就是图片只需要输出一次, 如果图片alt描述部分存在内容, 请将其转换为`[中文 / 英语](图片url)`的格式
+3. 如果图片格式的alt不存在，则按原文输出即可, 如果图片alt描述部分存在内容, 请将其转换为`[中文 / 英语](图片url)`的格式
 
 图片翻译示例1输入:
 
@@ -154,6 +154,19 @@ Markdown列表格式翻译示例2输出:
 ```
 ![钢铁侠 / Iron Man](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
 ```
+
+图片翻译示例3输入:
+
+```
+![Iron Man](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
+```
+
+图片翻译示例3输出:
+
+```
+![钢铁侠 / Iron Man](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
+```
+
 
 
 4. Markdown超链接翻译规则: `()` 部分的内容无需翻译, 超链接描述`[]`部分需要翻译
