@@ -162,7 +162,7 @@ Markdown是一种纯文本标记语言，重视层级结构，而无需考虑样
 
 ## 12. 如何将Markdown格式转公众号格式？
 
-在线工具mdnice : [https://www.mdnice.com/](https://www.mdnice.com/) 可以将markdown转换为 公众号格式
+在线工具mdnice : [https://www.mdnice点com/](https://www.mdnice点com/) 可以将markdown转换为 公众号格式
 
 另外，mdnice还可以将markdown转换为多种主题的富文本，可以直接粘贴到知乎，B站专栏。
 
@@ -355,7 +355,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 ## 26. 如何找BT种子？
 
-前往聚bt  [https://jubt.net/](https://jubt.net/)
+前往聚bt  [https://jubt点net/](https://jubt点net/)
 
 ![image-20201123084345122](https://cdn.fangyuanxiaozhan.com/assets/1694245178075PczHCKYb.png)
 
