@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2023年09月20日更新, 本仓库共管理495篇文章)
+## 目录(2023年09月24日更新, 本仓库共管理496篇文章)
+[Windows，macOS，Linux换行标识的前世今生，如何处理文本文件行尾的^M / The Past and Present of Line Break Symbols in Windows, macOS, Linux, How to Deal with ^M at the End of Text Files](https://v2fy.com/p/2023-09-24-11-48-05-crlf/)
+
 [内容出海，让ChatGPT将中文Markdown内容翻译为中英对照的格式](https://v2fy.com/p/2023-09-16-11-46-28-chatgpt-translate/)
 
 [一次rm引发的悲剧, 推荐使用trash-cli回收站二次确认后再删除数据](https://v2fy.com/p/2023-09-13-13-14-39-trash-put/)
