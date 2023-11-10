@@ -1,8 +1,16 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2023年10月19日更新, 本仓库共管理499篇文章)
-[如何处理Github Markdown文档图片缓存显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
+## 目录(2023年11月10日更新, 本仓库共管理503篇文章)
+[简书留下的乐子](https://v2fy.com/p/2023-10-22-13-42-16-jianshu/)
+
+[mkvtoolnix](https://v2fy.com/p/2023-10-29-15-51-19-mkvtoolnix/)
+
+[jellyfin支持中英对照双字幕](https://v2fy.com/p/2023-10-24-18-31-41-jellyfin-subtitle/)
+
+[《ENGLISH VOCABULARY IN USE》图文并茂风评超好的的剑桥英语系列词汇书籍](https://v2fy.com/p/2023-11-10-10-38-23-english-vocabulary-in-use/)
+
+[解决Github Markdown图片显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
 
 [如何避免手抖关闭终端导致程序中断？如何保证ssh断开不丢失会话？降压小工具Tmux / How to prevent program interruption by accidentally closing the terminal? How to ensure that the ssh disconnection does not lose the session? Pressure-reducing tool Tmux](https://v2fy.com/p/2023-09-30-16-23-38-tmux/)
 
