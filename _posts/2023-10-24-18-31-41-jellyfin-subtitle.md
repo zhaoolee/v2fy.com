@@ -12,4 +12,7 @@ categories:
 
 
 
-最近在重温美剧老友记Friends 但macOS版的jellyfin server 默认不支持中英双字幕，让我感觉很蛋疼，于是尝试找jellyfin插件解决，忽然发原来jellyfin-web已经支持了双字幕，只是没有被放到macOS版，于是我从Github clone了一份 jellyfin-web项目项目，自己编译了一下，经过反复尝试,使用Node.js 20.0.0打出了成品包
+最近在重温美剧老友记Friends 但macOS版的jellyfin server 默认不支持中英双字幕，让我感觉很蛋疼，于是尝试找jellyfin插件解决，忽然发原来jellyfin-web已经支持了双字幕，只是没有被放到macOS版，于是我从Github clone了一份 jellyfin-web项目项目，自己编译了一下，经过反复尝试,使用Node.js 20.0.0打出了成品包。
+
+
+

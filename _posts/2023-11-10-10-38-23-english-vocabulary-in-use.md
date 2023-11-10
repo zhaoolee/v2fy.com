@@ -1,12 +1,12 @@
 ---
-title: 《ENGLISH VOCABULARY IN USE》图文并茂风评超好的的剑桥英语系列词汇书籍
+title: 《ENGLISH VOCABULARY IN USE》图文并茂风评超好的剑桥英语系列词汇书籍
 tags:
 - 个人成长
 categories:
 - 杂谈
 ---
 
-## 
+## ENGLISH VOCABULARY IN USE
 
 ENGLISH VOCABULARY IN USE 系列是一套旨在帮助英语学习者提升词汇能力的书籍集合。该系列在英语学习者和教师中广受认可和好评。每本书都专注于不同的词汇方面，全面涵盖了必备的单词和短语。
 
