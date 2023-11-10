@@ -8,7 +8,7 @@
 
 [jellyfin支持中英对照双字幕](https://v2fy.com/p/2023-10-24-18-31-41-jellyfin-subtitle/)
 
-[《ENGLISH VOCABULARY IN USE》图文并茂风评超好的的剑桥英语系列词汇书籍](https://v2fy.com/p/2023-11-10-10-38-23-english-vocabulary-in-use/)
+[《ENGLISH VOCABULARY IN USE》图文并茂风评超好的剑桥英语系列词汇书籍](https://v2fy.com/p/2023-11-10-10-38-23-english-vocabulary-in-use/)
 
 [解决Github Markdown图片显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
 
