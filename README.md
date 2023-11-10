@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2023年10月01日更新, 本仓库共管理498篇文章)
+## 目录(2023年10月19日更新, 本仓库共管理499篇文章)
+[如何处理Github Markdown文档图片缓存显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
+
 [如何避免手抖关闭终端导致程序中断？如何保证ssh断开不丢失会话？降压小工具Tmux / How to prevent program interruption by accidentally closing the terminal? How to ensure that the ssh disconnection does not lose the session? Pressure-reducing tool Tmux](https://v2fy.com/p/2023-09-30-16-23-38-tmux/)
 
 [关于河北某地收缴程序员三年收入的看法](https://v2fy.com/p/2023-09-27-12-28-38-remote-work/)
