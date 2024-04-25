@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2024年04月25日更新, 本仓库共管理509篇文章)
-[Starbucks星巴克联网闭坑小妙招](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
+[Starbucks星巴克Wifi弹不出认证窗口怎么办？](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
 
 [Spotube开源免费无广告的听歌工具，可听周杰伦等中文歌手](https://v2fy.com/p/2024-01-21-12-24-59-spotube/)
 
