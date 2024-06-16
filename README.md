@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2024年06月16日更新, 本仓库共管理513篇文章)
-[如何为办公室局域网的Linux主机设置Docker拉取镜像走代理](https://v2fy.com/p/2024-06-16-10-23-44-docker-proxy/)
+[如何为局域网的Linux主机设置Docker拉取镜像走代理](https://v2fy.com/p/2024-06-16-10-23-44-docker-proxy/)
 
 [好物推荐，可以在星巴克wifi转wifi的openwrt开源双无线网卡路由器](https://v2fy.com/p/2024-06-01-14-57-18-openwrt/)
 
