@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年06月30日更新, 本仓库共管理515篇文章)
+## 目录(2024年07月01日更新, 本仓库共管理516篇文章)
+[ChatGPT-Next-Web本地创建镜像攻略](https://v2fy.com/p/2024-06-30-17-01-04-next-web-chatgpt/)
+
 [在命令行更灵活的代理工具proxychain4获取github代码](https://v2fy.com/p/2024-06-30-11-43-28-proxychain4/)
 
 [黑神话最佳合作伙伴，能不能白嫖黑悟空就看banana了！](https://v2fy.com/p/2024-06-19-12-25-41-banana/)
