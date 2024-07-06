@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年07月01日更新, 本仓库共管理516篇文章)
+## 目录(2024年07月06日更新, 本仓库共管理517篇文章)
+[用Electron实现支持动态下发视频资源的类OBS推流解决方案](https://v2fy.com/p/2024-07-06-11-09-56-audio/)
+
 [ChatGPT-Next-Web本地创建镜像攻略](https://v2fy.com/p/2024-06-30-17-01-04-next-web-chatgpt/)
 
 [在命令行更灵活的代理工具proxychain4获取github代码](https://v2fy.com/p/2024-06-30-11-43-28-proxychain4/)
