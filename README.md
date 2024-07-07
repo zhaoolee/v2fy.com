@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年07月06日更新, 本仓库共管理517篇文章)
+## 目录(2024年07月07日更新, 本仓库共管理518篇文章)
+[解决微信读书和Apple Books导入epub电子书不显示图片的问题](https://v2fy.com/p/2024-07-07-12-03-58-read-epub/)
+
 [用Electron实现支持动态下发视频资源的类OBS推流解决方案](https://v2fy.com/p/2024-07-06-11-09-56-audio/)
 
 [ChatGPT-Next-Web本地创建镜像攻略](https://v2fy.com/p/2024-06-30-17-01-04-next-web-chatgpt/)
