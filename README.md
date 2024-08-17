@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2024年08月17日更新, 本仓库共管理520篇文章)
-[本地如何连接公网Windows server的文件夹](https://v2fy.com/p/2024-08-10-08-29-12-windows-server-file/)
+[在Ubuntu24.04安装PHP8.3加Nginx，创建WordPress开发环境](https://v2fy.com/p/2024-08-17-15-13-37-php8/)
 
 [折腾一加9R使用Xposed虚拟摄像头，有点不一样的安卓开发攻略](https://v2fy.com/p/2024-07-21-10-49-38-oneplus-9r/)
 
