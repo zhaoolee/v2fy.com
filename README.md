@@ -1,7 +1,11 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年08月29日更新, 本仓库共管理522篇文章)
+## 目录(2024年09月18日更新, 本仓库共管理524篇文章)
+[在有固定IP的服务器上快速搭建gitlab-ce](https://v2fy.com/p/2024-08-31-13-11-03-gitlab-ce/)
+
+[使用PyEnv加Poetry管理Python版本以及依赖包](https://v2fy.com/p/2024-09-16-19-08-12-pyenv-poetry/)
+
 [如何三行命令完成git仓库搬家，完美镜像仓库](https://v2fy.com/p/2024-08-29-19-05-47-git-mirror/)
 
 [搭建地理信息数据库PostGIS](https://v2fy.com/p/2024-08-17-17-47-14-postgis/)
