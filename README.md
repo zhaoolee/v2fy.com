@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2024年09月19日更新, 本仓库共管理525篇文章)
-[2024年还9月可以用的Docker镜像代理站](https://v2fy.com/p/2024-09-19-14-43-57-docker-mirror/)
+[2024年9月还可以用的Docker镜像代理站](https://v2fy.com/p/2024-09-19-14-43-57-docker-mirror/)
 
 [在有固定IP的服务器上快速搭建gitlab-ce](https://v2fy.com/p/2024-08-31-13-11-03-gitlab-ce/)
 
