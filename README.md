@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年09月19日更新, 本仓库共管理525篇文章)
+## 目录(2024年09月21日更新, 本仓库共管理526篇文章)
+[一次被Windows Server调教的奇妙经历！为什么没有更多的人使用 Linux？](https://v2fy.com/p/2024-09-21-15-25-44-windows-server-2019/)
+
 [2024年9月还可以用的Docker镜像代理站](https://v2fy.com/p/2024-09-19-14-43-57-docker-mirror/)
 
 [在有固定IP的服务器上快速搭建gitlab-ce](https://v2fy.com/p/2024-08-31-13-11-03-gitlab-ce/)
