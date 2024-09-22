@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年09月21日更新, 本仓库共管理527篇文章)
+## 目录(2024年09月22日更新, 本仓库共管理528篇文章)
+[通过Github Actions将Medium新博客Feed自动更新到github主页](https://v2fy.com/p/2024-09-22-12-57-14-medium-feed/)
+
 [提升Docker使用幸福感，为禅道优雅设置Docker重启策略](https://v2fy.com/p/2024-09-21-18-09-55-zentao-docker-restart/)
 
 [一次被Windows Server调教的奇妙经历！为什么没有更多的人使用 Linux？](https://v2fy.com/p/2024-09-21-15-25-44-windows-server-2019/)
