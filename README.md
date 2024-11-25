@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年11月16日更新, 本仓库共管理539篇文章)
+## 目录(2024年11月25日更新, 本仓库共管理540篇文章)
+[Windows11 macOS M系芯片 Vmware虚拟机附带镜像天翼云分享](https://v2fy.com/p/2024-11-24-18-04-52-windows11-mac-m1/)
+
 [开源网络延迟检测时钟，小而美的极客好物](https://v2fy.com/p/2024-11-16-14-51-47-clock-network/)
 
 [部署并启用redis 为Python经典框架fastapi长耗时接口添加缓存支持的步骤](https://v2fy.com/p/2024-11-09-12-35-49-deploy-redis/)
