@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2024年12月02日更新, 本仓库共管理541篇文章)
+## 目录(2025年01月11日更新, 本仓库共管理542篇文章)
+[吾爱破解网友封装的Windows控制安卓神器Scrcpy图形化界面一键整合包](https://v2fy.com/p/2025-01-11-12-13-35-scrcpy-windows-one-click-gui/)
+
 [解决macOS版Claude Desktop无法读取本地文件的问题](https://v2fy.com/p/2024-12-02-15-12-32-mcp-claude/)
 
 [Windows11 macOS M系芯片 Vmware虚拟机附带镜像天翼云分享](https://v2fy.com/p/2024-11-24-18-04-52-windows11-mac-m1/)
