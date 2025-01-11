@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年01月11日更新, 本仓库共管理542篇文章)
+## 目录(2025年01月11日更新, 本仓库共管理543篇文章)
+[2025年如何解封Claude账号？三天解封Claude账号的经验](https://v2fy.com/p/2025-01-11-14-09-30-claude/)
+
 [吾爱破解网友封装的Windows控制安卓神器Scrcpy图形化界面一键整合包](https://v2fy.com/p/2025-01-11-12-13-35-scrcpy-windows-one-click-gui/)
 
 [解决macOS版Claude Desktop无法读取本地文件的问题](https://v2fy.com/p/2024-12-02-15-12-32-mcp-claude/)
