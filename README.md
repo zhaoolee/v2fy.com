@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年03月17日更新, 本仓库共管理546篇文章)
+## 目录(2025年03月21日更新, 本仓库共管理547篇文章)
+[减少复制粘贴，充分使用ChatGPT官方客户端协作VScode写代码](https://v2fy.com/p/2025-03-19-11-08-47-chatgpt-vscode/)
+
 [使用uv更快速地管理Python项目](https://v2fy.com/p/2025-03-17-10-28-56-uv/)
 
 [全球人类访问deepseek可以少敲几个字符了](https://v2fy.com/p/2025-02-09-16-43-58-ai-com-redirect-to-deepseek/)
