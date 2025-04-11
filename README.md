@@ -1,7 +1,17 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年04月10日更新, 本仓库共管理548篇文章)
+## 目录(2025年04月11日更新, 本仓库共管理553篇文章)
+[如何玩转esp32](https://v2fy.com/p/2025-02-18-14-13-48-esp32/)
+
+[微软50周年纪念壁纸 50th-windows-wallpapers](https://v2fy.com/p/2025-04-11-16-42-19-50th-windows-wallpapers/)
+
+[开发小语种输入法能不能赚钱？](https://v2fy.com/p/2025-02-17-10-41-30-input/)
+
+[sqlite迁移到mysql实用教程！以Github 60k的CMS项目Strapi迁移数据库为例](https://v2fy.com/p/2025-03-04-10-02-19-sqlite-to-mysql/)
+
+[桌面玄修小硬件EasyBar招股书](https://v2fy.com/p/2025-02-11-15-27-26-sticks/)
+
 [解决macOS版zerotier报错Waiting for ZeroTier system service的问题](https://v2fy.com/p/2025-04-10-09-55-36-zerotier/)
 
 [减少复制粘贴，充分使用ChatGPT官方客户端协作VScode写代码](https://v2fy.com/p/2025-03-19-11-08-47-chatgpt-vscode/)
