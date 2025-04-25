@@ -21,7 +21,7 @@ jobs:
       - name: Install pipenv
         run: pip3 install --user pipenv
       - name: Install dependecies
-        run:  pipenv --python python3 && pipenv install
+        run:  pipenv install
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
