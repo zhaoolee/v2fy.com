@@ -1,7 +1,11 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年04月13日更新, 本仓库共管理553篇文章)
+## 目录(2025年04月25日更新, 本仓库共管理555篇文章)
+[今日爆火的高仿Manus的开源软件Suna使用成本](https://v2fy.com/p/2025-04-25-17-17-28-suna/)
+
+[Chrome浏览器在http网页上支持打开麦克风](https://v2fy.com/p/2025-04-20-12-55-17-treat-insecure-for-audio/)
+
 [如何玩转esp32](https://v2fy.com/p/2025-02-18-14-13-48-esp32/)
 
 [比尔盖茨庆祝微软50周年回忆博客（附原文翻译以及Windows纪念壁纸下载）](https://v2fy.com/p/2025-04-11-16-42-19-50th-windows-wallpapers/)
