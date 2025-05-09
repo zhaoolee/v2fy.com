@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年04月27日更新, 本仓库共管理555篇文章)
+## 目录(2025年05月09日更新, 本仓库共管理556篇文章)
+[解决树莓派官方系统在浏览器打开网页无法显示Emoji的问题](https://v2fy.com/p/2025-05-09-14-12-37-show-emoji-in-raspberry-pi-os/)
+
 [今日爆火的高仿Manus的开源软件Suna使用成本](https://v2fy.com/p/2025-04-25-17-17-28-suna/)
 
 [Chrome浏览器在http网页上支持打开麦克风](https://v2fy.com/p/2025-04-20-12-55-17-treat-insecure-for-audio/)
