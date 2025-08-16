@@ -1,7 +1,9 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年06月04日更新, 本仓库共管理559篇文章)
+## 目录(2025年08月16日更新, 本仓库共管理559篇文章)
+[通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
+
 [让KDE输入法更好用的配置Fcitx5 + Rime（中州韵）](https://v2fy.com/p/2025-06-03-09-52-29-config-ubuntu-kde/)
 
 [让Linux Ubuntu KDE桌面smb拷贝更快，提升Plex server影视服务器读取效率](https://v2fy.com/p/2025-06-02-22-56-55-more-power-smb-in-ked/)
@@ -987,8 +989,6 @@
 [P站5月最佳插画合集](https://v2fy.com/p/kr-000034/)
 
 [1600万播放127万弹幕的bilibili镇站之宝！两万个御坂妹](https://v2fy.com/p/kr-000033/)
-
-[推荐一波, 从创意社区V2EX收集的个人网站](https://v2fy.com/p/kr-000032/)
 
 [WordPress关闭自动更新关闭更新提醒](https://v2fy.com/p/kr-000031/)
 
