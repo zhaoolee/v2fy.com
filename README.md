@@ -1,8 +1,8 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年09月20日更新, 本仓库共管理560篇文章)
-[为什么要使用 Claude code？如何通过白嫖阿里千问驱动Claude code](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
+## 目录(2025年10月12日更新, 本仓库共管理560篇文章)
+[Claude Code使用指北（ 如何白嫖百万Qwen3 Token,每月劲省20刀)](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
 
 [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
 
