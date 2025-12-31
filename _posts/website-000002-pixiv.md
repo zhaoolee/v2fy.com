@@ -28,41 +28,41 @@ https://www.pixiv.net/ranking.php?mode=monthly&content=illust&p=1&format=json
 
 我们只需要给p参数是持续加1就好了,编写脚本,完成爬虫
 
-![](https://v2fy.com/asset/pixiv/pixiv460.gif)
+![](./website-000002-pixiv.assets/pixiv460.gif)
 
 (提取方式在文末)
 
 ## 放几张图
 
-![](https://v2fy.com/asset/pixiv/1.jpg)
+![](./website-000002-pixiv.assets/1.jpg)
 
-![](https://v2fy.com/asset/pixiv/2.jpg)
+![](./website-000002-pixiv.assets/2.jpg)
 
-![](https://v2fy.com/asset/pixiv/3.jpg)
+![](./website-000002-pixiv.assets/3.jpg)
 
-![](https://v2fy.com/asset/pixiv/4.jpg)
+![](./website-000002-pixiv.assets/4.jpg)
 
-![](https://v2fy.com/asset/pixiv/5.jpg)
+![](./website-000002-pixiv.assets/5.jpg)
 
-![](https://v2fy.com/asset/pixiv/6.jpg)
+![](./website-000002-pixiv.assets/6.jpg)
 
-![](https://v2fy.com/asset/pixiv/7.jpg)
+![](./website-000002-pixiv.assets/7.jpg)
 
-![](https://v2fy.com/asset/pixiv/8.jpg)
+![](./website-000002-pixiv.assets/8.jpg)
 
-![](https://v2fy.com/asset/pixiv/9.jpg)
+![](./website-000002-pixiv.assets/9.jpg)
 
-![](https://v2fy.com/asset/pixiv/10.jpg)
+![](./website-000002-pixiv.assets/10.jpg)
 
-![](https://v2fy.com/asset/pixiv/11.png)
+![](./website-000002-pixiv.assets/11.png)
 
-![](https://v2fy.com/asset/pixiv/12.png)
+![](./website-000002-pixiv.assets/12.png)
 
-![](https://v2fy.com/asset/pixiv/13.png)
+![](./website-000002-pixiv.assets/13.png)
 
-![](https://v2fy.com/asset/pixiv/14.png)
+![](./website-000002-pixiv.assets/14.png)
 
-![](https://v2fy.com/asset/pixiv/15.png)
+![](./website-000002-pixiv.assets/15.png)
 
 实现源码
 

@@ -9,7 +9,7 @@ categories:
 
 也可以通过浏览器访问**v2fy.com/about**页面获取壁纸下载链接
 
-![](https://v2fy.com/asset/bilibili-wallpaper-s/kr-000010-bilibili-wall-paper-s432.png)
+![](./kr-000010-bilibili-wall-paper.assets/kr-000010-bilibili-wall-paper-s432.png)
 
 ## 爬虫程序已开源到Github
 

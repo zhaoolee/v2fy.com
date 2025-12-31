@@ -12,22 +12,22 @@ B站总有一些很神奇的操作，让一些无法在大陆上映的影片，�
 
 **B站后面变成了改上映地区**，比如把**为美好的世界献上祝福！ 第二季** 改成**为美好的世界献上祝福！ 第二季 （僅限港澳台地區）**，至今坚挺！
 
-![](https://v2fy.com/asset/kr-012-bilibili-uwp/uwp001.png)
+![](./kr-000012-bilibili-uwp.assets/uwp001.png)
 
 ## 最简单的破解之法
 
 在Windows10自带的Microsoft Store中安装**哔哩哔哩UWP**
 
-![](https://v2fy.com/asset/kr-012-bilibili-uwp/uwp002.png)
+![](./kr-000012-bilibili-uwp.assets/uwp002.png)
 
 直达链接： https://www.microsoft.com/store/productId/9N7C87236453
 
-![](https://v2fy.com/asset/kr-012-bilibili-uwp/uwp004.jpg)
+![](./kr-000012-bilibili-uwp.assets/uwp004.jpg)
 
 ## 最终效果
 
 
-![](https://v2fy.com/asset/kr-012-bilibili-uwp/uwp006.png)
+![](./kr-000012-bilibili-uwp.assets/uwp006.png)
 
 
 

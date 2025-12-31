@@ -10,7 +10,7 @@ categories:
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/17443684357347PDbbyyD.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/17443684357347PDbbyyD.png)
 
 今年是微软诞生50周年，比尔盖茨写了这篇回忆文章，介绍了他怎么会创立这家公司，文末给出了微软第一个产品 Altair BASIC 的PDF版源码以及纪念壁纸的下载地址
 
@@ -22,13 +22,13 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744534538315Ntwym145.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744534538315Ntwym145.png)
 
 >  在微软公司发布Office, Windows95, Xbox, AI 之前，有一款产品，名为「阿尔泰  BASIC」
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744534932912x2CeQMwf.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744534932912x2CeQMwf.png)
 
 
 
@@ -52,7 +52,7 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744535778773fKPxETR0.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744535778773fKPxETR0.png)
 
 
 
@@ -68,7 +68,7 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 很经典的创业操作，先联系对方，说自己有对方需要的商品，如果对方愿意沟通，就做一个出来。
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536028398KMTeAFYx.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536028398KMTeAFYx.png)
 
 
 
@@ -82,7 +82,7 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536193579GnpDH2iJ.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536193579GnpDH2iJ.png)
 
 
 
@@ -98,7 +98,7 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 程序员都是懒人，越好用，越流行；Python和JavaScript这两种极其流行的编程语言，也是直接把代码丢给解释器，让编码步骤变得更简单，好用的东西，才更容易流行起来。
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744370192733dsYft16d.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744370192733dsYft16d.png)
 
 
 
@@ -106,11 +106,11 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536385973MAYW4EPJ.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536385973MAYW4EPJ.png)
 
 > 保罗和我与Ric Weiland一起上学，后来他成为了微软的第二位员工。
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536486522CJmjRQkf.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536486522CJmjRQkf.png)
 
 > 开始行动!
 
@@ -120,7 +120,7 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536639625KmenkBwM.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536639625KmenkBwM.png)
 
 > 克服障碍
 
@@ -130,7 +130,7 @@ Celebrate 50 years of Microsoft with the company’s original source code
 
 计算资源永远是不够用的，开发者需要不断优化程序，这就是钻研数据结构和算法的价值；对应到2023年，大模型的显存占用恐怖的很，显存又贵的很，模型厂商的策略是不断优化基础模型，推出不同参数量的版本，让用户以更低的成本运行程序。
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536800044pG0PPJDR.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536800044pG0PPJDR.png)
 
 > 微软的诞生
 
@@ -148,9 +148,9 @@ Micro命名的初衷应该是指软件很小，运行很高效。虽然愿景是
 
 当然微软还是和腾讯没得比，腾讯云的SDK都能100MB起步！
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744539149322Fmd1d8mN.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744539149322Fmd1d8mN.png)
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1744536891501NjXwRQKf.png)
+![](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744536891501NjXwRQKf.png)
 
 
 
@@ -158,36 +158,36 @@ Micro命名的初衷应该是指软件很小，运行很高效。虽然愿景是
 
 
 
-![Microsoft_50th_Mahjong_Dark_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368674013PRSbdR8y.jpeg)
+![Microsoft_50th_Mahjong_Dark_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674013PRSbdR8y.jpeg)
 
-![Microsoft_50th_Mahjong_Dark_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368673936YdRcnQid.jpeg)
+![Microsoft_50th_Mahjong_Dark_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368673936YdRcnQid.jpeg)
 
-![Microsoft_50th_Mahjong_Light_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368674047ftdM8AD5.jpeg)
+![Microsoft_50th_Mahjong_Light_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674047ftdM8AD5.jpeg)
 
-![Microsoft_50th_Solitaire_Dark_Wide](https://cdn.fangyuanxiaozhan.com/assets/17443686740927SiPETr4.jpeg)
+![Microsoft_50th_Solitaire_Dark_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/17443686740927SiPETr4.jpeg)
 
-![Microsoft_50th_Solitaire_Light_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368674007MhwfZNj2.jpeg)
+![Microsoft_50th_Solitaire_Light_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674007MhwfZNj2.jpeg)
 
-![Microsoft_50th_Tulips_Dark_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368673879Xmz4yWwS.jpeg)
+![Microsoft_50th_Tulips_Dark_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368673879Xmz4yWwS.jpeg)
 
-![Microsoft_50th_Mahjong_Light_4k](https://cdn.fangyuanxiaozhan.com/assets/174436867413820fDiNEA.jpeg)
+![Microsoft_50th_Mahjong_Light_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/174436867413820fDiNEA.jpeg)
 
-![Microsoft_50th_Solitaire_Dark_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368674153M2SzbZfr.jpeg)
+![Microsoft_50th_Solitaire_Dark_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674153M2SzbZfr.jpeg)
 
-![Microsoft_50th_Solitaire_Light_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368674202jW1PrfCz.jpeg)
+![Microsoft_50th_Solitaire_Light_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674202jW1PrfCz.jpeg)
 
-![Microsoft_50th_Tulips_Dark_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368674158mzySPXAQ.jpeg)
+![Microsoft_50th_Tulips_Dark_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674158mzySPXAQ.jpeg)
 
-![Microsoft_50th_Tulips_Light_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368674186K42fdDHT.jpeg)
+![Microsoft_50th_Tulips_Light_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674186K42fdDHT.jpeg)
 
-![Microsoft_50th_Tulips_Light_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368673929KK42MHnb.jpeg)
+![Microsoft_50th_Tulips_Light_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368673929KK42MHnb.jpeg)
 
-![Microsoft_50th_Windows_Dark_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368673785fRp8s5x7.jpeg)
+![Microsoft_50th_Windows_Dark_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368673785fRp8s5x7.jpeg)
 
-![Microsoft_50th_Windows_Dark_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368674002tmmdFms6.jpeg)
+![Microsoft_50th_Windows_Dark_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674002tmmdFms6.jpeg)
 
-![Microsoft_50th_Windows_Light_4k](https://cdn.fangyuanxiaozhan.com/assets/1744368674352Yb8RrdsT.jpeg)
+![Microsoft_50th_Windows_Light_4k](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674352Yb8RrdsT.jpeg)
 
-![Microsoft_50th_Windows_Light_Wide](https://cdn.fangyuanxiaozhan.com/assets/1744368674162EdAhrwGa.jpeg)
+![Microsoft_50th_Windows_Light_Wide](./2025-04-11-16-42-19-50th-windows-wallpapers.assets/1744368674162EdAhrwGa.jpeg)
 
 五十周年纪念壁纸下载地址：https://unlocked.microsoft.com/wp-content/uploads/2025/03/50th-windows-wallpapers.zip

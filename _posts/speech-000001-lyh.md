@@ -9,9 +9,9 @@ categories:
 
 罗老师在演讲中提到出了一本书,名为「我的奋斗」，当然这个书名蹭到了 万恶之源「元首」的热度，罗老师评价自己这本书 **除了在思想界和知识界,它基本是这个样子的,好评如潮!但放到思想界和知识界,基本上没什么动静...**,罗老师运用**欲扬先抑**的套路，外加思想界和知识界的描述,在加上PPT的动画效果加成,抛出了经典的**罗氏好评如潮**
 
-![](https://v2fy.com/asset/speech-000001-lyh/haoping.png)
+![](./speech-000001-lyh.assets/haoping.png)
 
-![](https://v2fy.com/asset/speech-000001-lyh/ruchao.gif)
+![](./speech-000001-lyh.assets/ruchao.gif)
 
 罗老师《我的奋斗》(电子版 文末可领取)
 
@@ -23,19 +23,19 @@ categories:
 
 
 
-![](https://v2fy.com/asset/speech-000001-lyh/deluoshe.jpg)
+![](./speech-000001-lyh.assets/deluoshe.jpg)
 
 早期和罗老师, 郭老师齐名的单口相声艺术家还有 周立波,来吧,合张影!
 
-![](https://v2fy.com/asset/speech-000001-lyh/3jutou.png)
+![](./speech-000001-lyh.assets/3jutou.png)
 
 也可以换张脸!
 
-![](https://v2fy.com/asset/speech-000001-lyh/guanfang.png)
+![](./speech-000001-lyh.assets/guanfang.png)
 
 ## 罗老师！别这样！
 
-![](https://v2fy.com/asset/speech-000001-lyh/luolaoshibiezheyang.gif)
+![](./speech-000001-lyh.assets/luolaoshibiezheyang.gif)
 
 为啥罗老师会抽自己大嘴巴？那就要想想为什么星巴克把「中杯」当作「大杯」？
 
@@ -43,7 +43,7 @@ categories:
 
 罗老师举了一个类似的栗子：关于买书的方案
 
-![](https://v2fy.com/asset/speech-000001-lyh/choose.png)
+![](./speech-000001-lyh.assets/choose.png)
 
 二选一会有84%的人选择真正实用的59美刀电子版
 
@@ -59,17 +59,17 @@ categories:
 
 ## 无敌浩克? 无敌浩!
 
-![](https://v2fy.com/asset/speech-000001-lyh/wudihao.gif)
+![](./speech-000001-lyh.assets/wudihao.gif)
 
 
 
-![](https://v2fy.com/asset/speech-000001-lyh/wudihao.jpg)
+![](./speech-000001-lyh.assets/wudihao.jpg)
 
 罗老师经常产生无敌浩克和自己是同一人的错觉...
 
 ## 关于乔帮主
 
-![](https://v2fy.com/asset/speech-000001-lyh/shangdi.jpg)
+![](./speech-000001-lyh.assets/shangdi.jpg)
 
 上帝,如果你把乔布斯还给我们,我们就让你带走罗永浩和潘石屹,阿门! (据说这段话是苹果的狂热信徒杜撰的)
 
@@ -77,7 +77,7 @@ categories:
 
 - 罗老师的「愿景」
 
-![](https://v2fy.com/asset/speech-000001-lyh/zhuanqian.jpg)
+![](./speech-000001-lyh.assets/zhuanqian.jpg)
 
 通过干干净净地赚钱让人相信干干净净地赚钱是可能的
 通过实现理想让人相信实现理想是可能的
@@ -88,13 +88,13 @@ categories:
 - 「企业家」对罗老师对评价
 
 
-![](https://v2fy.com/asset/speech-000001-lyh/qiyejia.jpg)
+![](./speech-000001-lyh.assets/qiyejia.jpg)
 
 他的人生是一部典型的小镇青年励志片,他浑身泛着叛逆气息,以斗士的姿态嘲讽与迎战不公正的社会秩序,并且成功. (「企业家」杂志认为罗老师是企业家!)
 
 - 宿敌「方舟子」对他对罗老师评价
 
-![](https://v2fy.com/asset/speech-000001-lyh/deyi.jpg)
+![](./speech-000001-lyh.assets/deyi.jpg)
 
 
 全中国德艺双馨的表演艺术家也是只有这么一个,双重国宝.(这里方舟子是在损罗老师)

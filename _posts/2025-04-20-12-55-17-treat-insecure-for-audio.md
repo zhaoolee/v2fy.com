@@ -18,6 +18,6 @@ chrome://flags/#unsafely-treat-insecure-origin-as-secure
 
 
 
-![image-20250420125711229](https://cdn.fangyuanxiaozhan.com/assets/1745125031712RKe4zD0E.png)
+![image-20250420125711229](./2025-04-20-12-55-17-treat-insecure-for-audio.assets/1745125031712RKe4zD0E.png)
 
 修改完成后，重启浏览器即可！

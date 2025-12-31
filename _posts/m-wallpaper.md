@@ -7,7 +7,7 @@ categories:
 ## 城堡黄昏胡同猫女孩竖屏壁纸
 
 
-![城堡黄昏胡同猫女孩竖屏壁纸](https://cdn.fangyuanxiaozhan.com/assets/16942338260740ANrWPNw.jpeg)
+![城堡黄昏胡同猫女孩竖屏壁纸](./m-wallpaper.assets/16942338260740ANrWPNw.jpeg)
 
 
 
@@ -17,4 +17,4 @@ categories:
 
 
 
-![电影小丑的海报](https://cdn.fangyuanxiaozhan.com/assets/1694233831292ZXXDTbwM.jpeg)
+![电影小丑的海报](./m-wallpaper.assets/1694233831292ZXXDTbwM.jpeg)

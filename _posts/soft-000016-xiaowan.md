@@ -8,7 +8,7 @@ categories:
 
 小丸工具箱是一款视频压缩的利器, Adobe Pr导出的1GB容器的视频, 小丸工具箱可以轻松压缩到100MB, 体积缩小到原来的十分之一, 但肉眼无法看出视频质量的损失
 
-![](https://v2fy.com/asset/soft-000016-xiaowan/00xiaow.gif)
+![](./soft-000016-xiaowan.assets/00xiaow.gif)
 
 
 ## 使用小丸工具箱压缩视频有啥用?

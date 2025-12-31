@@ -67,12 +67,12 @@ cf-ray: 90f294b5d8d54115-SIN
 
 
 
-![image-20250209164418313](https://cdn.fangyuanxiaozhan.com/assets/1739090662149wnDbdMyG.png)
+![image-20250209164418313](./2025-02-09-16-43-58-ai-com-redirect-to-deepseek.assets/1739090662149wnDbdMyG.png)
 
 ai.com 是极其珍贵的顶级域名，以前ai.com是重定向到openai的服务，现在全球用户可以通过ai.com 直达 deepseek的服务，颇有钞能力改变一切的味道。
 
 
 
-![deepseek-and-chatgpt](https://cdn.fangyuanxiaozhan.com/assets/1739092181792z5QnjRMR.png)
+![deepseek-and-chatgpt](./2025-02-09-16-43-58-ai-com-redirect-to-deepseek.assets/1739092181792z5QnjRMR.png)
 
 **I'M RICH!**

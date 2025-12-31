@@ -12,19 +12,19 @@ Windows激活大致有两种，分别是**软件数字激活**和**KMS激活**�
 
 首先，需要下载一个，「Win10数字激活」软件包（文末提取）
 
-![](https://v2fy.com/asset/soft-000020/009.gif)
+![](./soft-000020-active-windows.assets/009.gif)
 
 
 
-![](https://v2fy.com/asset/soft-000020/010.png)
+![](./soft-000020-active-windows.assets/010.png)
 
 这个小工具很好用，可以放到随身U盘，作为珍藏小工具
 
 ## 方法2：KMS在线激活
 
-![](https://v2fy.com/asset/soft-000020/001.png)
+![](./soft-000020-active-windows.assets/001.png)
 
-![](https://v2fy.com/asset/soft-000020/002.png)
+![](./soft-000020-active-windows.assets/002.png)
 
 
 复制下面的命令
@@ -33,7 +33,7 @@ Windows激活大致有两种，分别是**软件数字激活**和**KMS激活**�
 slmgr /skms kms.v0v.bid && slmgr /ato
 ```
 
-![](https://v2fy.com/asset/soft-000020/004.png)
+![](./soft-000020-active-windows.assets/004.png)
 
 
 方法来源：[https://v0v.bid/](https://v0v.bid/)

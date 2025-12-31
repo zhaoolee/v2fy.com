@@ -6,7 +6,7 @@ categories:
 
 ## 如何查看bilibili所有UP主粉丝量的排行榜?
 
-![](https://v2fy.com/asset/kanbilibili/up.png)
+![](./website-000001-kanbilibili.assets/up.png)
 
 直达地址: https://www.kanbilibili点com/rank/ups/fans
 
@@ -14,7 +14,7 @@ categories:
 
 ## 如何查看B站番剧每月播放量最多的视频
 
-![](https://v2fy.com/asset/kanbilibili/m.png)
+![](./website-000001-kanbilibili.assets/m.png)
 
 直达地址: https://www.kanbilibili点com/monthly
 
@@ -24,12 +24,12 @@ categories:
 
 ## 如何通过av号下载B站封面
 
-![](https://v2fy.com/asset/kanbilibili/huoying.gif)
+![](./website-000001-kanbilibili.assets/huoying.gif)
 
 直达地址: https://www.kanbilibili点com/
 
 
-![](https://v2fy.com/asset/kanbilibili/ying.jpg)
+![](./website-000001-kanbilibili.assets/ying.jpg)
 
 
 B站的UP主上传的视频一般都以av做为后缀, 而优秀UP主上传的封面大多非常值得收藏(UP主选择封面的重要程度和微信公众号标题差不多), 如果你想下载视频封面,可以直接按照以上动图演示的方法,下载,非常简单易行~

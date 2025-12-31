@@ -7,16 +7,16 @@ categories:
 换皮肤，可以说是各大国产浏览器的传统艺能了，Chrome团队官方也提供了皮肤，非常漂亮
 
 
-![](https://v2fy.com/asset/soft-000015-chrome-color/001.png)
+![](./soft-000015-chrome-color.assets/001.png)
 
 
 
-![](https://v2fy.com/asset/soft-000015-chrome-color/002.png)
+![](./soft-000015-chrome-color.assets/002.png)
 
 
 我个人最喜欢这款皮肤
 
-![](https://v2fy.com/asset/soft-000015-chrome-color/003.png)
+![](./soft-000015-chrome-color.assets/003.png)
 
 
 皮肤的安装方式与Chrome扩展程序安装方式相同

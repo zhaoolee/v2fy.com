@@ -7,28 +7,28 @@ categories:
 
 ## 将Windows美化为macOS之后的效果
 
-![](https://v2fy.com/asset/win-mac/wmac001.png)
+![](./soft-000019-wmac.assets/wmac001.png)
 
 
 ## 动态效果
 
-![](https://v2fy.com/asset/win-mac/wmac002.gif)
+![](./soft-000019-wmac.assets/wmac002.gif)
 
 
 ## 第一步：安装美化软件
 
 软件包文末提供
 
-![](https://v2fy.com/asset/win-mac/wm003.png)
+![](./soft-000019-wmac.assets/wm003.png)
 
-![](https://v2fy.com/asset/win-mac/wm004.png)
+![](./soft-000019-wmac.assets/wm004.png)
 
 
 
 ## 第二步：隐藏底部工具栏
 
 
-![](https://v2fy.com/asset/win-mac/wm006.png)
+![](./soft-000019-wmac.assets/wm006.png)
 
 
 

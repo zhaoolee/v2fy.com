@@ -1595,5 +1595,5 @@ categories:
 
 关注公众号「0加1」可以收到文章更新推送
 
-![公众号「0加1」](https://v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)
+![公众号「0加1」](./000readme-jikemiji.assets/jikemiji.png)
 

@@ -15,7 +15,7 @@ categories:
 
 我排查了一下，发现是两个服务的重启策略不同
 
-![img](https://cdn.fangyuanxiaozhan.com/assets/17269134091457BFpW2Gn.png)
+![img](./2024-09-21-18-09-55-zentao-docker-restart.assets/17269134091457BFpW2Gn.png)
 
 查看容器当前重启策略的命令如下
 
@@ -29,7 +29,7 @@ docker inspect --format='{{.HostConfig.RestartPolicy.Name}}' container_name_or_i
 docker update --restart unless-stopped container_name_or_id
 ```
 
-![img](https://cdn.fangyuanxiaozhan.com/assets/1726913409382wCNHbeP7.png)
+![img](./2024-09-21-18-09-55-zentao-docker-restart.assets/1726913409382wCNHbeP7.png)
 
 完美搞定！
 
@@ -39,7 +39,7 @@ docker update --restart unless-stopped container_name_or_id
 
 如果你也使用禅道做需求管理，你会发现官方给的运行命令，如果遇到Docker重启的情况，禅道就需求手动重启，如果使用 unless-stopped参数，你就可以让禅道在重启Docker或重启服务器后，自动恢复服务
 
-![img](https://cdn.fangyuanxiaozhan.com/assets/1726913411010EtSbmDfh.png)
+![img](./2024-09-21-18-09-55-zentao-docker-restart.assets/1726913411010EtSbmDfh.png)
 
 
 
@@ -47,7 +47,7 @@ docker update --restart unless-stopped container_name_or_id
 
 [ https://www.zentao.net/book/zentaopms/docker-1111.html](https://www.zentao.net/book/zentaopms/docker-1111.html)
 
-![img](https://cdn.fangyuanxiaozhan.com/assets/1726913411465FKB6cfDy.png)
+![img](./2024-09-21-18-09-55-zentao-docker-restart.assets/1726913411465FKB6cfDy.png)
 
 使用unless-stop配合docker开机自启，能减少很多运维风险。
 

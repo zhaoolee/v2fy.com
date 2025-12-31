@@ -6,7 +6,7 @@ categories:
 
 
 
-![office-001](https://cdn.fangyuanxiaozhan.com/assets/1694245040224jmyH8MSM.jpeg)
+![office-001](./office.assets/1694245040224jmyH8MSM.jpeg)
 
 ## 1. 如何免费无损批量压缩图片？
 
@@ -18,11 +18,11 @@ categories:
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245066706C0hP3Bz2.gif)
+![](./office.assets/1694245066706C0hP3Bz2.gif)
 
 ## 2. 如何将需要打印的文件快速传到另一台电脑？
 
-![image-20201121104506140](https://cdn.fangyuanxiaozhan.com/assets/1694245066863ZHyTnrYe.png)
+![image-20201121104506140](./office.assets/1694245066863ZHyTnrYe.png)
 
 在线工具拷贝兔：[https://cp.anyknew.com/](https://cp.anyknew.com/)
 
@@ -34,7 +34,7 @@ categories:
 
 
 
-![image-20201121103806538](https://cdn.fangyuanxiaozhan.com/assets/1694245078609DtK8mze3.png)
+![image-20201121103806538](./office.assets/1694245078609DtK8mze3.png)
 
 奶牛快传：[https://cowtransfer.com/](https://cowtransfer.com/)
 文叔叔: [https://www.wenshushu.cn/](https://www.wenshushu.cn/)
@@ -49,7 +49,7 @@ categories:
 
 Pexels提供免费无版权且质量高的图片： [https://www.pexels.com/zh-cn/](https://www.pexels.com/zh-cn/)
 
-![image-20201121103712699](https://cdn.fangyuanxiaozhan.com/assets/1694245099050Mtp6MfzA.png)
+![image-20201121103712699](./office.assets/1694245099050Mtp6MfzA.png)
 
 unsplash比Pexels的数量更多，但质量稍微差一些，可以与Pexels互为补充： [https://unsplash.com/](https://unsplash.com/)
 
@@ -79,7 +79,7 @@ Ps! 也就是Photoshop！Photoshop可以让你年终总结贴图，做PPT找图�
 
 vposy从未主动向任何人提供破解软件，只是长期向公众分享安装和使用的心得技巧。
 
-![image-20201121103550826](https://cdn.fangyuanxiaozhan.com/assets/16942451004875wKkHthM.png)
+![image-20201121103550826](./office.assets/16942451004875wKkHthM.png)
 
 ## 7. 如何使用在线版Photoshop?
 
@@ -93,7 +93,7 @@ vposy从未主动向任何人提供破解软件，只是长期向公众分享安
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245116051w5Qbsi2e.gif)
+![](./office.assets/1694245116051w5Qbsi2e.gif)
 
 ## 8. 如何使用Google搜索？
 
@@ -105,7 +105,7 @@ vposy从未主动向任何人提供破解软件，只是长期向公众分享安
 
 然后Chrome加载 iGG谷歌访问助手，即可自由访问Google和Chrome网上应用店
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245130924PkEBNfdH.gif)
+![](./office.assets/1694245130924PkEBNfdH.gif)
 
 如果对iGG谷歌访问助手安装有疑问，欢迎查看 [https://v2fy.com/p/082-iguge-2020-11-02/](https://v2fy.com/p/082-iguge-2020-11-02/)
 
@@ -119,7 +119,7 @@ vposy从未主动向任何人提供破解软件，只是长期向公众分享安
 
 实例: type:mp4 "钢之炼金术师"
 
-![image-20201121102411066](https://cdn.fangyuanxiaozhan.com/assets/1694245128647yK6Czaa2.png)
+![image-20201121102411066](./office.assets/1694245128647yK6Czaa2.png)
 
 
 
@@ -131,7 +131,7 @@ vposy从未主动向任何人提供破解软件，只是长期向公众分享安
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/16942451392270wf063bk.gif)
+![](./office.assets/16942451392270wf063bk.gif)
 
 《KinhDownload》详细教程:[https://v2fy.com/p/t040-kdbaidu/](https://v2fy.com/p/t040-kdbaidu/)
 
@@ -151,7 +151,7 @@ Markdown是一种纯文本标记语言，重视层级结构，而无需考虑样
 
 [https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245155014786PeDcW.gif)
+![](./office.assets/1694245155014786PeDcW.gif)
 
 
 如果你喜欢在本地写邮件，可以考虑使用Typora:
@@ -166,7 +166,7 @@ Markdown是一种纯文本标记语言，重视层级结构，而无需考虑样
 
 另外，mdnice还可以将markdown转换为多种主题的富文本，可以直接粘贴到知乎，B站专栏。
 
-![image-20201122131013079](https://cdn.fangyuanxiaozhan.com/assets/1694245151142y0maRY8W.png)
+![image-20201122131013079](./office.assets/1694245151142y0maRY8W.png)
 
 
 
@@ -180,7 +180,7 @@ Windows自带录屏功能 Win+G， 即可录屏
 MacOS 自带软件QuickTime也可以录屏
 如果你想使用免费又专业的录屏软件，建议使用OBS , OBS官网 [https://obsproject.com/](https://obsproject.com/)
 
-![image-20201122130920575](https://cdn.fangyuanxiaozhan.com/assets/1694245152252fhSkfm4h.png)
+![image-20201122130920575](./office.assets/1694245152252fhSkfm4h.png)
 
 ## 14. 如何在不损失画质的前提下减小视频体积？
 
@@ -190,7 +190,7 @@ MacOS 自带软件QuickTime也可以录屏
 
 亲测可以将1GB的视频压缩到100MB，压缩率非常可观，B站up们都在用！
 
-![image-20201122130838560](https://cdn.fangyuanxiaozhan.com/assets/1694245155293YP1k0Kpy.png)
+![image-20201122130838560](./office.assets/1694245155293YP1k0Kpy.png)
 
 
 
@@ -218,7 +218,7 @@ MacOS找软件： [https://xclient.info/](https://xclient.info/)
 
 如果你想使用各种收费软件免费版，又不想电脑中毒，又对360和腾讯全家桶没啥感情，推荐安装**火绒** [https://www.huorong.cn/](https://www.huorong.cn/)
 
-![image-20201122130651466](https://cdn.fangyuanxiaozhan.com/assets/1694245155895xyY3an25.png)
+![image-20201122130651466](./office.assets/1694245155895xyY3an25.png)
 
 
 
@@ -230,7 +230,7 @@ MacOS找软件： [https://xclient.info/](https://xclient.info/)
 
 ExFAT格式！
 
-![image-20201122130612600](https://cdn.fangyuanxiaozhan.com/assets/16942451570066rdDGGpX.png)
+![image-20201122130612600](./office.assets/16942451570066rdDGGpX.png)
 
 
 
@@ -242,7 +242,7 @@ https://msdn.itellyou.cn/
 
 
 
-![image-20201122130314403](https://cdn.fangyuanxiaozhan.com/assets/1694245158829dEt8Txms.png)
+![image-20201122130314403](./office.assets/1694245158829dEt8Txms.png)
 
 ## 19. 新媒体工作者如何快速查看互联网全平台的热点新闻？
 
@@ -256,7 +256,7 @@ https://msdn.itellyou.cn/
 
 
 
-![fire](https://cdn.fangyuanxiaozhan.com/assets/1694245162284QGz4xi75.png)
+![fire](./office.assets/1694245162284QGz4xi75.png)
 
 
 
@@ -268,9 +268,9 @@ https://msdn.itellyou.cn/
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/16942451646372fEGHJsw.gif)
+![](./office.assets/16942451646372fEGHJsw.gif)
 
-![21-27](https://cdn.fangyuanxiaozhan.com/assets/1694245165226KSB5czeW.jpeg)
+![21-27](./office.assets/1694245165226KSB5czeW.jpeg)
 
 ## 21. 如何激活Windows?
 
@@ -290,7 +290,7 @@ slmgr /skms kms.v0v.bid && slmgr /ato
 
 进入 [https://zh.savefrom.net/](https://zh.savefrom.net/) 
 
-![image-20201123084229622](https://cdn.fangyuanxiaozhan.com/assets/1694245165907pkCnsjJF.png)
+![image-20201123084229622](./office.assets/1694245165907pkCnsjJF.png)
 
 输入需要下载的YouTube 视频url, 即可下载。
 
@@ -307,7 +307,7 @@ youtube-dl开源地址： [https://github.com/ytdl-org/youtube-dl](https://githu
 youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 ```
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245167927tSbGFZ86.png)
+![](./office.assets/1694245167927tSbGFZ86.png)
 
 
 
@@ -317,7 +317,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
 
-![you-get](https://cdn.fangyuanxiaozhan.com/assets/1694245170283r3x5NhYC.png)
+![you-get](./office.assets/1694245170283r3x5NhYC.png)
 
 
 ## 24. 如何关闭Windows自动更新？
@@ -334,7 +334,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 搜索自动更新，即可定位工具下载地址
 
-![image-20201122182412531](https://cdn.fangyuanxiaozhan.com/assets/1694245172351FjPZZZ3B.png)
+![image-20201122182412531](./office.assets/1694245172351FjPZZZ3B.png)
 
 
 
@@ -348,7 +348,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 
 
-![image-20201123084255373](https://cdn.fangyuanxiaozhan.com/assets/1694245173445PFp3MaXM.png)
+![image-20201123084255373](./office.assets/1694245173445PFp3MaXM.png)
 
 网站内都是免费可商用字体，并可自由下载
 
@@ -357,7 +357,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 前往聚bt  [https://jubt点net/](https://jubt点net/)
 
-![image-20201123084345122](https://cdn.fangyuanxiaozhan.com/assets/1694245178075PczHCKYb.png)
+![image-20201123084345122](./office.assets/1694245178075PczHCKYb.png)
 
 内含各种BT种子站
 
@@ -368,7 +368,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 [http://tool.liumingye.cn/douyin/](http://tool.liumingye.cn/douyin/)
 
-![image-20201123084403345](https://cdn.fangyuanxiaozhan.com/assets/16942451795060kERisbY.png)
+![image-20201123084403345](./office.assets/16942451795060kERisbY.png)
 
 
 
@@ -381,7 +381,7 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 
 
-![image-20201123084422087](https://cdn.fangyuanxiaozhan.com/assets/1694245182948QiitsJ6b.png)
+![image-20201123084422087](./office.assets/1694245182948QiitsJ6b.png)
 
 可以各种形态的超清小人素材
 
@@ -393,7 +393,7 @@ WordPress官网 [https://wordpress.org/](https://wordpress.org/)
 
 WordPress商业版中文官网（收费版）：[https://zh-cn.wordpress.com/](https://zh-cn.wordpress.com/)
 
-![image-20201123090210447](https://cdn.fangyuanxiaozhan.com/assets/1694245185402TdKXnzTK.png)
+![image-20201123090210447](./office.assets/1694245185402TdKXnzTK.png)
 
 WordPress廉价建站教程（香港阿里云服务器，免备案，每月20大洋）：[https://www.bilibili.com/video/BV1gi4y1877t](https://www.bilibili.com/video/BV1gi4y1877t)
 
@@ -409,7 +409,7 @@ WordPress廉价建站教程（香港阿里云服务器，免备案，每月20大
 
 Windows上优质&精选的最佳应用程序及工具列表
 
-![image-20201123090138753](https://cdn.fangyuanxiaozhan.com/assets/1694245188731zeyMd3ay.png)
+![image-20201123090138753](./office.assets/1694245188731zeyMd3ay.png)
 
 [https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
@@ -421,7 +421,7 @@ Windows上优质&精选的最佳应用程序及工具列表
 
 推荐使用 Office Tool Plus 进行 **office的全自动安装和激活**。Office Tool Plus 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。甚至**可以下载Office最新的预览版进行自动安装并激活**。(微软骂骂咧咧退出了直播间)
 
-![image-20201125084650412](https://cdn.fangyuanxiaozhan.com/assets/1694245192893nAbK5Ysb.png)
+![image-20201125084650412](./office.assets/1694245192893nAbK5Ysb.png)
 
 Office Tool Plus 是一款完全免费的工具，没有强制性推广以及弹窗广告。（截止2020年11月25日，依然是免费干净的）
 
@@ -429,7 +429,7 @@ Office Tool Plus 是一款完全免费的工具，没有强制性推广以及弹
 
 Office Tool Plus 中文版下载地址： [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
 
-![image-20201125084630582](https://cdn.fangyuanxiaozhan.com/assets/16942451940082rk8MrsB.png)
+![image-20201125084630582](./office.assets/16942451940082rk8MrsB.png)
 
 
 
@@ -439,11 +439,11 @@ Office Tool Plus 中文版下载地址： [https://otp.landian.vip/zh-cn/downloa
 
 打开手机QQ，右上角扫一扫， 选择转文字，即可实现**拍照转文字**，**从相册中选取图片转文字**
 
-![Screenshot_20201125-085231](https://cdn.fangyuanxiaozhan.com/assets/1694245197325JtCCWRDp.jpeg)
+![Screenshot_20201125-085231](./office.assets/1694245197325JtCCWRDp.jpeg)
 
 
 
-![WeChat72b754b8e9ef3bd8425d48f6bf2cc45d](https://cdn.fangyuanxiaozhan.com/assets/1694245202584Me88J4Ye.png)
+![WeChat72b754b8e9ef3bd8425d48f6bf2cc45d](./office.assets/1694245202584Me88J4Ye.png)
 
 
 
@@ -453,7 +453,7 @@ QQ有一个面对面快传文件的功能，适合大量互传文件，无需联
 
 
 
-![image-20201125090952642](https://cdn.fangyuanxiaozhan.com/assets/1694245204754MNc3Rf2S.png)
+![image-20201125090952642](./office.assets/1694245204754MNc3Rf2S.png)
 
 不得不吹一波QQ传文件的功能：apk文件可以直接安装，从网络下载的 epub电子书可以直接发送到 **掌阅** 进行阅读
 
@@ -465,7 +465,7 @@ QQ有一个面对面快传文件的功能，适合大量互传文件，无需联
 
 格式工厂是我这些年用过的，**最好用的视频格式转换软件**， 而且支持视频转音频，常用图片格式互转。
 
-![image-20201125091942514](https://cdn.fangyuanxiaozhan.com/assets/16942452075544CcNdyRQ.png)
+![image-20201125091942514](./office.assets/16942452075544CcNdyRQ.png)
 
 官网下载地址： [http://www.pcgeshi.com/](http://www.pcgeshi.com/)
 
@@ -482,21 +482,19 @@ QQ有一个面对面快传文件的功能，适合大量互传文件，无需联
 
 船长解析-vip视频在线解析，免费在线查看下载爱奇艺，腾讯，优酷，芒果，bilibili 的 vip视频
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245220358PbjYYasx.gif)
+![](./office.assets/1694245220358PbjYYasx.gif)
 
 无广告模式
 
-![](https://www.v2fy.com/wp-content/uploads/2020/05/keycat1000.jpg)
 
 下载视频
 
-![](https://www.v2fy.com/wp-content/uploads/2020/05/keycat1000.jpg)
 
 ## 36. 如何获得macOS历代壁纸？（需要魔法上网）
 
 [https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3)
 
-![image-20201125094658099](https://cdn.fangyuanxiaozhan.com/assets/1694245230767rnmAa0RT.png)
+![image-20201125094658099](./office.assets/1694245230767rnmAa0RT.png)
 
 ## 37. 如何获得iOS历代壁纸？（需要魔法上网）
 
@@ -504,23 +502,23 @@ QQ有一个面对面快传文件的功能，适合大量互传文件，无需联
 
 
 
-![image-20201125094630962](https://cdn.fangyuanxiaozhan.com/assets/1694245233194jip5wmSz.png)
+![image-20201125094630962](./office.assets/1694245233194jip5wmSz.png)
 
 
 ## 38. 如何获得bing主页历史壁纸？
 
 [https://www.todaybing.com/](https://www.todaybing.com/)
 
-![image-20201125094540904](https://cdn.fangyuanxiaozhan.com/assets/1694245235553MAR6SinM.png)
+![image-20201125094540904](./office.assets/1694245235553MAR6SinM.png)
 
 ## 39. 如何使用机器学习技术在线放大照片？
 
 使用PS或PhotoZoom，放大的图片后依然有明显的模糊感，边缘的重影以及噪点。而Bigjpg使用最新人工智能深度学习技术——深度卷积神经网络。它会将噪点和锯齿的部分进行补充，实现图片的无损放大。Bigjpg对于动漫、插画图片的放大几乎可以说是完美的。将小图片放大后，无论是色彩、细节、边缘，效果都很出色。同时也兼容普通的照片放大。
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245255066DfmXyaXd.gif)
+![](./office.assets/1694245255066DfmXyaXd.gif)
 
-![image-20200829144223539](https://cdn.fangyuanxiaozhan.com/assets/1694245254884BB5cAbEZ.png)
+![image-20200829144223539](./office.assets/1694245254884BB5cAbEZ.png)
 
 
 
@@ -534,10 +532,10 @@ smallpdf.com 是目前最好用的在线pdf处理工具，
 
 
 
-![image-20201125095317418](https://cdn.fangyuanxiaozhan.com/assets/1694245257702Cj1kAYpt.png)
+![image-20201125095317418](./office.assets/1694245257702Cj1kAYpt.png)
 
 
 
 但每小时只能完成两个在线任务，如果你需要一小时之内处理多个任务，可以打开Chrome开发者工具手动清除本地浏览器的记录。
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1694245264738X7jK43JC.gif)
+![](./office.assets/1694245264738X7jK43JC.gif)

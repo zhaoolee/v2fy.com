@@ -145,7 +145,7 @@ tips-000003-nginx-wordpress
 ## 尝试用Navicat连接
 
 
-![](https://v2fy.com/asset/tips-000003-nginx-wordpress/navicat.png)
+![](./tips-000003-nginx-wordpress.assets/navicat.png)
 
 
 
@@ -309,7 +309,7 @@ chmod 777 -R /usr/share/nginx/hk.v2fy.com/
 vim /usr/share/nginx/hk.v2fy.com/wp-config.php
 ```
 
-![](https://v2fy.com/asset/tips-000003-nginx-wordpress/db.png)
+![](./tips-000003-nginx-wordpress.assets/db.png)
 
 #### 更改 `/etc/nginx/conf.d/hk.v2fy.com.conf`
 

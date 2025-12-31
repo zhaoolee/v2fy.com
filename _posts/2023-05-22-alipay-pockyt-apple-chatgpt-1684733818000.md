@@ -12,7 +12,7 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay�
 
 
 
-![IMG_1223B2D6E548-1](https://cdn.fangyuanxiaozhan.com/assets/1684734464281CD3P7JGi.jpeg)
+![IMG_1223B2D6E548-1](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684734464281CD3P7JGi.jpeg)
 
 ## 通过Apple Store订阅ChatGPT PLUS的步骤
 
@@ -22,21 +22,21 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay�
 
 如果美区账号没有绑定支付方式，是无法订阅成功的，我们可以通过支付宝购买一定金额的礼品卡，送给自己，然后在App Store将礼品卡兑换到自己的美区账号，当美区账号金额大于19.99美元时，即可顺利订阅PLUS账号
 
-![image-20230522135159421](https://cdn.fangyuanxiaozhan.com/assets/16847347198972n8QzGf4.png)
+![image-20230522135159421](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/16847347198972n8QzGf4.png)
 
 中国区的支付宝并不售卖美区的App Store礼品卡，我们需要将支付宝改到美区，比如旧金山（San Francisco）
 
 
 
-![image-20230522135722223](https://cdn.fangyuanxiaozhan.com/assets/1684735042793MZ48YPFm.png)
+![image-20230522135722223](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735042793MZ48YPFm.png)
 
 
 
-![image-20230522135747873](https://cdn.fangyuanxiaozhan.com/assets/1684735068620X2xpFCra.png)
+![image-20230522135747873](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735068620X2xpFCra.png)
 
 支付宝内嵌了Pockyt Shop的移动网页版，这样的好处是，可以直接在Pockeyt Shop网页版使用支付宝进行支付，但Pockyt Shop只对登录用户进行交易，而支付宝无法直接对Pockyt Shop进行授权登录，所以我们还需要用邮箱在Pockyt Shop进行注册，注册很简单，填写邮箱地址，登录密码，邮箱验证码即可，注册完成后，会自动完成登录，如下图所示，登录完成后，我们可以搜索app store
 
-![image-20230522140009870](https://cdn.fangyuanxiaozhan.com/assets/1684735210615yFHpYE1A.png)
+![image-20230522140009870](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735210615yFHpYE1A.png)
 
 
 
@@ -44,11 +44,11 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay�
 
 
 
-![image-20230522140529706](https://cdn.fangyuanxiaozhan.com/assets/1684735530638sbHQdtcz.png)
+![image-20230522140529706](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735530638sbHQdtcz.png)
 
 支付宝会自动换算汇率，我们可以用人民币直接支付
 
-![image-20230522140617961](https://cdn.fangyuanxiaozhan.com/assets/1684735578582zWfZfkxF.png)
+![image-20230522140617961](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735578582zWfZfkxF.png)
 
 
 
@@ -56,7 +56,7 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay�
 
 
 
-![image-20230522140710828](https://cdn.fangyuanxiaozhan.com/assets/1684735631422syKJkSyR.png)
+![image-20230522140710828](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735631422syKJkSyR.png)
 
 
 
@@ -64,7 +64,7 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay�
 
 
 
-![image-20230522135159421](https://cdn.fangyuanxiaozhan.com/assets/16847347198972n8QzGf4.png)
+![image-20230522135159421](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/16847347198972n8QzGf4.png)
 
 
 
@@ -72,11 +72,11 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay�
 
 
 
-![image-20230522141058155](https://cdn.fangyuanxiaozhan.com/assets/1684735858990SiKR4HpW.png)
+![image-20230522141058155](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684735858990SiKR4HpW.png)
 
 
 
-![image-20230522142829911](https://cdn.fangyuanxiaozhan.com/assets/1684736911073dQ0JKdBH.png)
+![image-20230522142829911](./2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000.assets/1684736911073dQ0JKdBH.png)
 
 Enjoy it !
 

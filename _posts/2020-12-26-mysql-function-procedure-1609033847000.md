@@ -6,7 +6,7 @@ categories:
 
 
 
-![function_procedure](https://cdn.fangyuanxiaozhan.com/assets/1694248059878rzjXciR1.png)
+![function_procedure](./2020-12-26-mysql-function-procedure-1609033847000.assets/1694248059878rzjXciR1.png)
 ----
 ## 函数
 
@@ -87,7 +87,7 @@ select num_add();
 ### 运行结果:
 
 
-![mysql_function](https://cdn.fangyuanxiaozhan.com/assets/1694248062118dMJWec0t.png)
+![mysql_function](./2020-12-26-mysql-function-procedure-1609033847000.assets/1694248062118dMJWec0t.png)
 
 
 > 函数体中也可以编写sql语句,但不能使用`select...from...`,所以通过sql对数据表进行操作的任务,最好交给"存储过程"
@@ -152,7 +152,7 @@ call show_func_and_proc();
 #### 运行结果:
 
 
-![mysql_procedure](https://cdn.fangyuanxiaozhan.com/assets/1694248067796pbFy85zP.png)
+![mysql_procedure](./2020-12-26-mysql-function-procedure-1609033847000.assets/1694248067796pbFy85zP.png)
 
 
 

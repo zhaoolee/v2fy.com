@@ -10,7 +10,7 @@ categories:
 以 https://wenku.baidu.com/view/50c05825edf9aef8941ea76e58fafab068dc444b 为例
 
 
-![](https://v2fy.com/asset/soft-000012-bingdian/001.gif)
+![](./soft-000012-bingdian.assets/001.gif)
 
 
 
@@ -36,7 +36,7 @@ categories:
 以从 https://wenku.baidu.com/view/251b8e9a182e453610661ed9ad51f01dc28157a5.html 下载的小学课文pdf图片为例
 
 
-![](https://v2fy.com/asset/soft-000012-bingdian/002.gif)
+![](./soft-000012-bingdian.assets/002.gif)
 
 **冰点下载器无广告版** 和 **天若OCR绿色版** 可以通过 在公众号 **0加1** 后台回复 **bo** 获取蓝奏云下载地址
 

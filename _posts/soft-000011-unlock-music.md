@@ -10,26 +10,26 @@ QQ音乐的版权多，网易云音乐的评论很棒，能不能两个都要呢
 
 ## 第一步： 下载QQ音乐的歌曲到本地
 
-![](https://v2fy.com/asset/soft-000011-unlock-music/001.png)
+![](./soft-000011-unlock-music.assets/001.png)
 
 - 找到下载到本地的歌曲
 
-![](https://v2fy.com/asset/soft-000011-unlock-music/002.png)
+![](./soft-000011-unlock-music.assets/002.png)
 
 
 ## 第二步：将QQ音乐的加密格式转换为开放格式
 
 打开 https://v2fy.com/um/
 
-![](https://v2fy.com/asset/soft-000011-unlock-music/003.gif)
+![](./soft-000011-unlock-music.assets/003.gif)
 
 这个在线工具是在github开源的，我在自己服务器部署了一份，但可能不久就会迫于压力下架，当然建议在 公众号**0加1** 后台回复 **um** 领取一个备份zip包，解压即用，和网页使用的效果相同
 
 ## 第三步： 将开放格式的歌曲上传到网易云音乐的云盘
 
-![](https://v2fy.com/asset/soft-000011-unlock-music/004.gif)
+![](./soft-000011-unlock-music.assets/004.gif)
 
-![](https://v2fy.com/asset/soft-000011-unlock-music/005.gif)
+![](./soft-000011-unlock-music.assets/005.gif)
 
 ## 小结：
 

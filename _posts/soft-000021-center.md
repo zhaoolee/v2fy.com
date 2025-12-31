@@ -9,20 +9,20 @@ categories:
 
 **左对齐**会让设计变得精致
 
-![](https://v2fy.com/asset/soft-000021-center/left.png)
+![](./soft-000021-center.assets/left.png)
 
 **右对齐**会让设计变得有条理
 
-![](https://v2fy.com/asset/soft-000021-center/right.png)
+![](./soft-000021-center.assets/right.png)
 
 **居中对齐**会让设计变得庄重
 
-![](https://v2fy.com/asset/soft-000021-center/center.png)
+![](./soft-000021-center.assets/center.png)
 
 
 ## macOS桌面底部的Docker设计
 
-![](https://v2fy.com/asset/soft-000021-center/mac-bottom.png)
+![](./soft-000021-center.assets/mac-bottom.png)
 
 
 macOS底部为居中的设计, 而且自带毛玻璃效果, 非常漂亮
@@ -31,7 +31,7 @@ macOS底部为居中的设计, 而且自带毛玻璃效果, 非常漂亮
 设计原则是通用的,如果把Windows底部任务栏图标居中,也会有不错的效果
 
 
-![](https://v2fy.com/asset/soft-000021-center/010.png)
+![](./soft-000021-center.assets/010.png)
 
 
 
@@ -40,7 +40,7 @@ macOS底部为居中的设计, 而且自带毛玻璃效果, 非常漂亮
 
 下载`CenterTaskbar`,双击运行即可实现
 
-![](https://v2fy.com/asset/soft-000021-center/009.gif)
+![](./soft-000021-center.assets/009.gif)
 
 
 ## 最后提供一个最新的软件包

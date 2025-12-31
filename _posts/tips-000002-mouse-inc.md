@@ -15,7 +15,7 @@ categories:
 ## 显示键盘按键的演示，更容易让读者看懂
 
 
-![](https://v2fy.com/asset/windows-ctrl/qiangjinjiu.gif)
+![](./tips-000002-mouse-inc.assets/qiangjinjiu.gif)
 
 无论是是**录制视频教程**，还是**录制gif图演示**，或者运维人员在**公用windows机器上添加录屏监控**，录制按键都是加分项
 
@@ -24,12 +24,12 @@ categories:
 
 
 
-![](https://v2fy.com/asset/tips-000002-%EF%BD%8Douseinc/openhuixian.png)
+![](./tips-000002-mouse-inc.assets/openhuixian.png)
 
 
 
 
-![](https://v2fy.com/asset/tips-000002-%EF%BD%8Douseinc/gaoji.png)
+![](./tips-000002-mouse-inc.assets/gaoji.png)
 
 
 

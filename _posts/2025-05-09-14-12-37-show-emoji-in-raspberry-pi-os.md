@@ -12,7 +12,7 @@ categories:
 
 
 
-![image-20250509142929798](https://cdn.fangyuanxiaozhan.com/assets/1746772172844Tnx5QFpm.png)
+![image-20250509142929798](./2025-05-09-14-12-37-show-emoji-in-raspberry-pi-os.assets/1746772172844Tnx5QFpm.png)
 
 
 
@@ -30,6 +30,6 @@ sudo apt-get install fonts-noto-color-emoji
 
 
 
-![image-20250509141751962](https://cdn.fangyuanxiaozhan.com/assets/1746771475176kn5WeWSc.png)
+![image-20250509141751962](./2025-05-09-14-12-37-show-emoji-in-raspberry-pi-os.assets/1746771475176kn5WeWSc.png)
 
 最后重新启动浏览器，即可！

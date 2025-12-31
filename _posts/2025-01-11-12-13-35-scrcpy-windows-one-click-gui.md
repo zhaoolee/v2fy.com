@@ -11,18 +11,18 @@ Scrcpy是一款支持镜像控制安卓的开源软件，https://github.com/Geny
 ## 亲测运行在普通x86平台的Windows11
 
 
-![image-20250111122506589](https://cdn.fangyuanxiaozhan.com/assets/1736569507175FxiSHKDe.png)
+![image-20250111122506589](./2025-01-11-12-13-35-scrcpy-windows-one-click-gui.assets/1736569507175FxiSHKDe.png)
 
 
 ## 亲测运行在普通arm平台的Windows（macOS M1芯片虚拟机）
 
-![image-20250111122417592](https://cdn.fangyuanxiaozhan.com/assets/1736569459386fxNMadkQ.png)
+![image-20250111122417592](./2025-01-11-12-13-35-scrcpy-windows-one-click-gui.assets/1736569459386fxNMadkQ.png)
 
 
 
 ## 完美整合包 
 
-![image-20250111123002719](https://cdn.fangyuanxiaozhan.com/assets/1736569803451ndwitits.png)
+![image-20250111123002719](./2025-01-11-12-13-35-scrcpy-windows-one-click-gui.assets/1736569803451ndwitits.png)
 
 
 
@@ -43,7 +43,7 @@ The only problem with Microsoft is they just have no taste. They have absolutely
 
 ## 整合包下载地址
 
-![image-20250111122614181](https://cdn.fangyuanxiaozhan.com/assets/1736569574818zfJ8EfPJ.png)
+![image-20250111122614181](./2025-01-11-12-13-35-scrcpy-windows-one-click-gui.assets/1736569574818zfJ8EfPJ.png)
 
 公众号 0加1 后台回复 **scrcpy整合包** 即可获取 （自建树莓派Frp内网穿透实时上传）
 

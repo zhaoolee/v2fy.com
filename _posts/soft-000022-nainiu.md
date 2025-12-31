@@ -9,17 +9,17 @@ categories:
 
 奶牛快传是一个不限速的网盘传输服务,我做了一个实验,把一个38GB的文件夹上传到奶牛快传,中间没有任何中断,一气呵成
 
-![](https://v2fy.com/asset/nainiukuaichuan/N000.png)
+![](./soft-000022-nainiu.assets/N000.png)
 
-![](https://v2fy.com/asset/nainiukuaichuan/N001.png)
+![](./soft-000022-nainiu.assets/N001.png)
 
-![](https://v2fy.com/asset/nainiukuaichuan/N002.png)
+![](./soft-000022-nainiu.assets/N002.png)
 
 ## 文件夹有38GB?
 
 里面并没有什么颜色电影, 文件夹内含Adobe2020 Mac和Windows全套软件包,感兴趣的可以后台回复**a2020**即可获取Adobe2020 全套绿色软件下载链接(是奶牛快传不限速的下载链接哦~)
 
-![](https://v2fy.com/asset/nainiukuaichuan/N0005.gif)
+![](./soft-000022-nainiu.assets/N0005.gif)
 
 如果你想用度盘传38GB, 不充会员的度盘,可以享受极致的负用户体验, 如果你下载38GB的文件, 包你终身难忘,来世再回~
 

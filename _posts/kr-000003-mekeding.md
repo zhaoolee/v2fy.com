@@ -14,46 +14,46 @@ categories:
 
 
 
-![](https://v2fy.com/asset/makeding/001.png)
+![](./kr-000003-mekeding.assets/001.png)
 
 
 也有站长做了以上软件的资源合集
 
-![](https://v2fy.com/asset/makeding/008.png)
+![](./kr-000003-mekeding.assets/008.png)
 
 
 ## 关于思杰马克丁的表情包合集
 
-![](https://v2fy.com/asset/makeding/1.jpg)
+![](./kr-000003-mekeding.assets/1.jpg)
 
-![](https://v2fy.com/asset/makeding/2.jpg)
-
-
-![](https://v2fy.com/asset/makeding/3.jpg)
+![](./kr-000003-mekeding.assets/2.jpg)
 
 
-![](https://v2fy.com/asset/makeding/4.jpg)
-
-![](https://v2fy.com/asset/makeding/5.jpg)
+![](./kr-000003-mekeding.assets/3.jpg)
 
 
-![](https://v2fy.com/asset/makeding/6.jpg)
+![](./kr-000003-mekeding.assets/4.jpg)
+
+![](./kr-000003-mekeding.assets/5.jpg)
 
 
-![](https://v2fy.com/asset/makeding/7.jpg)
-
-![](https://v2fy.com/asset/makeding/8.jpg)
+![](./kr-000003-mekeding.assets/6.jpg)
 
 
-![](https://v2fy.com/asset/makeding/9.jpg)
+![](./kr-000003-mekeding.assets/7.jpg)
+
+![](./kr-000003-mekeding.assets/8.jpg)
 
 
-![](https://v2fy.com/asset/makeding/10.jpg)
-
-![](https://v2fy.com/asset/makeding/11.jpg)
+![](./kr-000003-mekeding.assets/9.jpg)
 
 
-![](https://v2fy.com/asset/makeding/12.jpg)
+![](./kr-000003-mekeding.assets/10.jpg)
+
+![](./kr-000003-mekeding.assets/11.jpg)
+
+
+![](./kr-000003-mekeding.assets/12.jpg)
 
 
 

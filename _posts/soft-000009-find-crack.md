@@ -8,14 +8,14 @@ categories:
 
 Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
 
-![](https://v2fy.com/asset/soft-000009-find-crack/001.png)
+![](./soft-000009-find-crack.assets/001.png)
 
 
 网址：https://igetintopc.com/  
 
 **亲测下载Getintopc.com_CCleaner.5.65可用**
 
-![](https://v2fy.com/asset/soft-000009-find-crack/0011.png)
+![](./soft-000009-find-crack.assets/0011.png)
 
 CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官网售价 19.95美元
 
@@ -23,7 +23,7 @@ CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官�
 
 Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网站运营者是一群热爱互联网和技术的人
 
-![](https://v2fy.com/asset/soft-000009-find-crack/002.png)
+![](./soft-000009-find-crack.assets/002.png)
 
 网址： https://piratepc.co/ 
 
@@ -32,7 +32,7 @@ Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网�
 **亲测下载IObit Uninstaller.9.4.0.12可用**
 
 
-![](https://v2fy.com/asset/soft-000009-find-crack/0022.png)
+![](./soft-000009-find-crack.assets/0022.png)
 
 IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 19.99美元
 
@@ -43,7 +43,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 Piratecity可以译为海盗湾，但这个网址不是BT站海盗湾，而是一个软件站
 
-![](https://v2fy.com/asset/soft-000009-find-crack/003.png)
+![](./soft-000009-find-crack.assets/003.png)
 
 
 https://www.piratecity.cc/
@@ -55,7 +55,7 @@ https://www.piratecity.cc/
 
 
 
-![](https://v2fy.com/asset/soft-000009-find-crack/0033.png)
+![](./soft-000009-find-crack.assets/0033.png)
 
 
 IDM是目前Windows平台风评最好的下载软件： 官网售价 24.95美元

@@ -134,37 +134,37 @@ Markdown列表格式翻译示例2输出:
 图片翻译示例1输入:
 
 ```
-![](https://cdn.fangyuanxiaozhan.com/assets/1686388246080mDPR12E1.png)
+![](./2023-09-16-11-46-28-chatgpt-translate.assets/1686388246080mDPR12E1.png)
 ```
 
 图片翻译示例1输出:
 
 ```
-![](https://cdn.fangyuanxiaozhan.com/assets/1686388246080mDPR12E1.png)
+![](./2023-09-16-11-46-28-chatgpt-translate.assets/1686388246080mDPR12E1.png)
 ```
 
 图片翻译示例2输入:
 
 ```
-![钢铁侠](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
+![钢铁侠](./2023-09-16-11-46-28-chatgpt-translate.assets/1686388272416NjcfMTXC.png)
 ```
 
 图片翻译示例2输出:
 
 ```
-![钢铁侠 / Iron Man](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
+![钢铁侠 / Iron Man](./2023-09-16-11-46-28-chatgpt-translate.assets/1686388272416NjcfMTXC.png)
 ```
 
 图片翻译示例3输入:
 
 ```
-![Iron Man](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
+![Iron Man](./2023-09-16-11-46-28-chatgpt-translate.assets/1686388272416NjcfMTXC.png)
 ```
 
 图片翻译示例3输出:
 
 ```
-![钢铁侠 / Iron Man](https://cdn.fangyuanxiaozhan.com/assets/1686388272416NjcfMTXC.png)
+![钢铁侠 / Iron Man](./2023-09-16-11-46-28-chatgpt-translate.assets/1686388272416NjcfMTXC.png)
 ```
 
 
@@ -217,5 +217,5 @@ chmod 755 -R /opt/rustdesk-docker-compose-yml
 
 https://github.com/pi
 
-![new](https://cdn.fangyuanxiaozhan.com/assets/16948557499963QXej1Kx.png)
+![new](./2023-09-16-11-46-28-chatgpt-translate.assets/16948557499963QXej1Kx.png)
 

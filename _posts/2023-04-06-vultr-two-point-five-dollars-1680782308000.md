@@ -24,7 +24,7 @@ https://my.vultr.com/deploy/
 
 Products -> Cloud Compute -> Regular Performance -> New York(NJ)
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1680782648311T1fCfwT8.png)
+![](./2023-04-06-vultr-two-point-five-dollars-1680782308000.assets/1680782648311T1fCfwT8.png)
 
 
 
@@ -32,7 +32,7 @@ Debian 11 -> IPV6 Only
 
 
 
-![Debian](https://cdn.fangyuanxiaozhan.com/assets/1680782818867GsBck7aR.png)
+![Debian](./2023-04-06-vultr-two-point-five-dollars-1680782308000.assets/1680782818867GsBck7aR.png)
 
 
 
@@ -40,7 +40,7 @@ Enable Auto Backups to off
 
 
 
-![](https://cdn.fangyuanxiaozhan.com/assets/1680782892112ZKmPhmX0.png)
+![](./2023-04-06-vultr-two-point-five-dollars-1680782308000.assets/1680782892112ZKmPhmX0.png)
 
 
 

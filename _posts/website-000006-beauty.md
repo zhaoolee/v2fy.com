@@ -7,13 +7,13 @@ categories:
 zhaoolee发现一个好玩的邮件订阅，名为[「表特日报」](https://daily-beauty.xyz/)，「表特」是Beauty的谐音，也就是就是「颜值报」, 订阅「表特日报」后，每天会收到一封有高颜值妹纸的图片
 
 
-![](https://v2fy.com/asset/website-000006-beauty/beauty_daily.png)
+![](./website-000006-beauty.assets/beauty_daily.png)
 
 
 zhaoolee对邮件背后的图片数据源**PTT表特版**产生了兴趣，于是找到了这样一个页面
 https://www.ptt.cc/man/Beauty/index.html
 
-![](https://v2fy.com/asset/website-000006-beauty/002.png)
+![](./website-000006-beauty.assets/002.png)
 
 这是个台湾网站... 有点东西！
 
@@ -22,12 +22,12 @@ https://www.ptt.cc/man/Beauty/index.html
 
 https://beautyptt.cc/
 
-![](https://v2fy.com/asset/website-000006-beauty/004.gif)
+![](./website-000006-beauty.assets/004.gif)
 
 
 于是zhaoolee通过开发者工具，查看了一下网站数据接口，并得知数据接口支持关键词筛选
 
-![](https://v2fy.com/asset/website-000006-beauty/006.gif)
+![](./website-000006-beauty.assets/006.gif)
 
 
 台湾人喜欢用「正妹」来形容美女，我们最终拼接的「正妹图片」接口为
@@ -44,7 +44,7 @@ https://github.com/zhaoolee/ptt_beauty_spider/blob/master/index.js
 
 爬虫运行了3个小时，爬了4000多张图片
 
-![](https://v2fy.com/asset/website-000006-beauty/007.gif)
+![](./website-000006-beauty.assets/007.gif)
 
 这个正妹专题的审美还挺多元！
 

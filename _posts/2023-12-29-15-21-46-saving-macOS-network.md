@@ -8,7 +8,7 @@ categories:
 
 最近我在特定wifi环境下，使用macOS的Chrome浏览器访问网页时，时不时会打不开网页，然后白屏报错，但是隔几秒钟，刷一下网页，又好了，非常烦人。
 
-![image-20231229155652757](https://cdn.fangyuanxiaozhan.com/assets/1703836613297R4FHTksH.png)
+![image-20231229155652757](./2023-12-29-15-21-46-saving-macOS-network.assets/1703836613297R4FHTksH.png)
 
 ```
 Your connection was interrupted
@@ -28,21 +28,21 @@ ERR_NETWORK_CHANGED
 
 
 
-![image-20231229152747393](https://cdn.fangyuanxiaozhan.com/assets/1703834867923ApJWa5wz.png)
+![image-20231229152747393](./2023-12-29-15-21-46-saving-macOS-network.assets/1703834867923ApJWa5wz.png)
 
 最后的治疗措施是，打开macOS终端，输入以下命令后，回车即可生效
 
 ```
 networksetup -setv6off "Wi-Fi"
 ```
-![image-20231229153750565](https://cdn.fangyuanxiaozhan.com/assets/1703835470932CwD1ZS1Z.png)
+![image-20231229153750565](./2023-12-29-15-21-46-saving-macOS-network.assets/1703835470932CwD1ZS1Z.png)
 
 最后打开系统偏好设置，在`Wi-Fi` 的Details下查看`TCP/IP`， `Configure IPv6` 被设置为`Off`则表示ipv6确实被禁止了。 
 
 
 
-![image-20231229153118916](https://cdn.fangyuanxiaozhan.com/assets/1703835079271sFNjH773.png)
+![image-20231229153118916](./2023-12-29-15-21-46-saving-macOS-network.assets/1703835079271sFNjH773.png)
 
-![image-20231229153027933](https://cdn.fangyuanxiaozhan.com/assets/1703835028300rZ5dkGFe.png)
+![image-20231229153027933](./2023-12-29-15-21-46-saving-macOS-network.assets/1703835028300rZ5dkGFe.png)
 
 最后重启一下macOS，Chrome的报错`ERR_NETWORK_CHANGED` 就不会出现了。

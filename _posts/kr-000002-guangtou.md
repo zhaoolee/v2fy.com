@@ -4,7 +4,7 @@ categories:
 - 杂谈
 ---
 
-![](https://v2fy.com/asset/guangtou/guangtou.png)
+![](./kr-000002-guangtou.assets/guangtou.png)
 
 
 

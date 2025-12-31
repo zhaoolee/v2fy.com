@@ -28,7 +28,7 @@ ENGLISH VOCABULARY IN USE 系列是一套旨在帮助英语学习者提升词汇
 
 总体而言，ENGLISH VOCABULARY IN USE 系列以其全面的词汇学习方法备受赞誉。这些书籍用户友好、结构合理，并为学习者提供了在不同英语水平上练习和巩固词汇技能的充足机会。
 
-![image-20231110104942021](https://cdn.fangyuanxiaozhan.com/assets/1699584583593fbfxYcMB.png)
+![image-20231110104942021](./2023-11-10-10-38-23-english-vocabulary-in-use.assets/1699584583593fbfxYcMB.png)
 
 
 

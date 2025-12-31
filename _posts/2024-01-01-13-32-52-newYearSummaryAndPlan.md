@@ -37,7 +37,7 @@ categories:
 
 **合订本**，2023 年的年度计划，我只实现了前两个
 
-![IMG_4148](https://cdn.fangyuanxiaozhan.com/assets/17040902075770b7Yn16t.jpeg)
+![IMG_4148](./2024-01-01-13-32-52-newYearSummaryAndPlan.assets/17040902075770b7Yn16t.jpeg)
 
 Electron系列没有开坑，原因是工作中使用Electron的项目凉了，即使只实现了两个，我也很满足。
 

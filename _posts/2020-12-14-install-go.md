@@ -159,7 +159,7 @@ go run main.go
 http://127.0.0.1:8080/ping
 ```
 
-![image-20201214175544913](https://cdn.fangyuanxiaozhan.com/assets/1694245698710dH5ESFTS.png)
+![image-20201214175544913](./2020-12-14-install-go.assets/1694245698710dH5ESFTS.png)
 
 
 

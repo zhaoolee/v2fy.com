@@ -8,7 +8,7 @@ categories:
 
 台湾有个名为ptt的网站,网站风格比较复古,特色是有**正妹帖**, 类似国内知乎**普通人可以漂亮到什么程度？**
 
-![](https://v2fy.com/asset/kr-011-biaote/biaote-003.gif)
+![](./kr-000011-biaote.assets/biaote-003.gif)
 
 https://www.ptt.cc/man/Beauty/index.html
 
@@ -25,7 +25,7 @@ https://www.ptt.cc/man/Beauty/index.html
 
 在服务器运行后,就忘记关了,昨天清理服务器的时候,发现有10GB的图片
 
-![](https://v2fy.com/asset/kr-011-biaote/biaote-002.gif)
+![](./kr-000011-biaote.assets/biaote-002.gif)
 
 
 

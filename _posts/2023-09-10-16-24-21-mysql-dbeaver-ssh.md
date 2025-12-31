@@ -23,53 +23,53 @@ categories:
 
  https://dbeaver.io/download/
 
-![image-20230910174221066](https://cdn.fangyuanxiaozhan.com/assets/1694338941780XpdDp6HC.png)
+![image-20230910174221066](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694338941780XpdDp6HC.png)
 
 ## 下载DBeaver后，关闭数据库所在云服务器的3306端口，然后开始连接
 
 新建数据库连接
 
-![image-20230910170446479](https://cdn.fangyuanxiaozhan.com/assets/16943366873076RGEk486.png)
+![image-20230910170446479](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/16943366873076RGEk486.png)
 
 选择Mysql, 继续
 
 
 
-![image-20230910170530626](https://cdn.fangyuanxiaozhan.com/assets/1694336732009xGZPMpQr.png)
+![image-20230910170530626](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694336732009xGZPMpQr.png)
 
-![image-20230910171127779](https://cdn.fangyuanxiaozhan.com/assets/1694337088451t7y1BhC2.png)
+![image-20230910171127779](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694337088451t7y1BhC2.png)
 
 配置ssh连通后，弹窗会显示成功, 这里填写的连接
 
-![image-20230910171227989](https://cdn.fangyuanxiaozhan.com/assets/1694337148756PmMbnTnF.png)
+![image-20230910171227989](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694337148756PmMbnTnF.png)
 
 进入Main面板，填写用户名密码，测试连接是否成功
 
 
 
-![image-20230910171633406](https://cdn.fangyuanxiaozhan.com/assets/1694337394159ZZnnfxDT.png)
+![image-20230910171633406](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694337394159ZZnnfxDT.png)
 
-![image-20230910172201204](https://cdn.fangyuanxiaozhan.com/assets/1694337721925EsF7AYbd.png)
+![image-20230910172201204](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694337721925EsF7AYbd.png)
 
 最后点击Finish，查看DBeaver左侧，可以看到数据库，以及表数据
 
 
 
-![image-20230910172346430](https://cdn.fangyuanxiaozhan.com/assets/1694337827043hBTDm8b5.png)
+![image-20230910172346430](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694337827043hBTDm8b5.png)
 
 可以查看到数据
 
-![image-20230910172542525](https://cdn.fangyuanxiaozhan.com/assets/1694337943656XR3Ha1s1.png)
+![image-20230910172542525](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694337943656XR3Ha1s1.png)
 
 为了避免数据断开，我们可以设置每10秒钟重连一下，保证不会被断开
 
 
 
-![image-20230910173000913](https://cdn.fangyuanxiaozhan.com/assets/1694338201592T6xcyCBj.png)
+![image-20230910173000913](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694338201592T6xcyCBj.png)
 
 
 
-![image-20230910173530243](https://cdn.fangyuanxiaozhan.com/assets/1694338531741ws3fs1z0.png)
+![image-20230910173530243](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694338531741ws3fs1z0.png)
 
 
 
@@ -77,7 +77,7 @@ categories:
 
 
 
-![image-20230910173629368](https://cdn.fangyuanxiaozhan.com/assets/1694338589993kEfGFBhR.png)
+![image-20230910173629368](./2023-09-10-16-24-21-mysql-dbeaver-ssh.assets/1694338589993kEfGFBhR.png)
 
 我们可以通过DBeaver图形化界面，稳定地增删改查Docker Mysql数据库了。
 

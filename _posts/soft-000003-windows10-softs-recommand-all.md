@@ -7,12 +7,12 @@ categories:
 在昨天发出windows软件推荐后, 好看数量很快达到了目标,这里把完整的安装包放出来
 
 
-![](https://v2fy.com/asset/soft-000003-windows10-softs-recommand-all/gzh.png)
+![](./soft-000003-windows10-softs-recommand-all.assets/gzh.png)
 
 
 链接:https://pan.baidu.com/s/18kXkO6WLFlHSBPGDlVSGKw  密码:vybh
 
-![](https://v2fy.com/asset/soft-000003-windows10-softs-recommand-all/9.png)
+![](./soft-000003-windows10-softs-recommand-all.assets/9.png)
 
 
 

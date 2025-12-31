@@ -12,20 +12,20 @@ https://v2fy.com
 
 **独立网站能为你带来收入**,当你的网站有一定内容的时候,可以从Google等广告供应商接到广告
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fyadsence.png)
+![](./kr-000009-wordpress.assets/v2fyadsence.png)
 
 **独立网站可以让你拥有独立的评论区**, 如果你的公众号没有评论功能, 可以通过阅读原文,将读者引到个人网站,进行留言
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-pinglun.png)
+![](./kr-000009-wordpress.assets/v2fy-pinglun.png)
 
 
 **独立网站可以作为你的工具库/游戏库**,有了网站就有了独立的域名和空间,你可以把自己喜欢的一些开源小工具,放到自己的网站,比如[俄罗斯方块](https://v2fy.com/game/tetris/),[蔡徐坤打篮球](https://v2fy.com/game/cxk-ball/), [解锁QQ音乐网易云音乐小工具](https://v2fy.com/game/cxk-ball/)
 
 
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-c.png)
+![](./kr-000009-wordpress.assets/v2fy-c.png)
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-els.png)
+![](./kr-000009-wordpress.assets/v2fy-els.png)
 
 
 
@@ -33,12 +33,12 @@ https://v2fy.com
 **独立网站可以让你分享真实的经验和资源**,而不必考虑触发敏感词组
 
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-s.png)
+![](./kr-000009-wordpress.assets/v2fy-s.png)
 
 将**v2fy.com/about**输入浏览器即可访问
 
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-ziyuan.png)
+![](./kr-000009-wordpress.assets/v2fy-ziyuan.png)
 
 
 ## 如何建网站
@@ -50,7 +50,7 @@ WordPress建站非常简单,从购买主机/域名，到搭建完成, 一个视�
 
 ## 网站如何引流
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-baidutongji.png)
+![](./kr-000009-wordpress.assets/v2fy-baidutongji.png)
 
 你可以通过微博，头条，知乎，简书，掘金等内容平台引流
 
@@ -64,9 +64,9 @@ WordPress建站非常简单,从购买主机/域名，到搭建完成, 一个视�
 
 比如在Google/百度搜索**v2方圆**前几条可以直接进入 v2fy.com
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-google.png)
+![](./kr-000009-wordpress.assets/v2fy-google.png)
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-baidu.png)
+![](./kr-000009-wordpress.assets/v2fy-baidu.png)
 
 
 百度搜索需要通过**百度站长**进行网站提交(网址如下)
@@ -97,7 +97,7 @@ https://analytics.google.com/analytics/web/
 
 ## 使用插件为网站提供额外功能
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-back.png)
+![](./kr-000009-wordpress.assets/v2fy-back.png)
 
 **Akismet Anti-Spam**可以保护你的网站遭受垃圾评论的攻击
 
@@ -114,7 +114,7 @@ https://analytics.google.com/analytics/web/
 
 以上插件可以通过后台的插件商店，直接通过名字搜索安装
 
-![](https://v2fy.com/asset/kr-000004-wordpress/v2fy-more-plugin.png)
+![](./kr-000009-wordpress.assets/v2fy-more-plugin.png)
 
 ## 小结
 

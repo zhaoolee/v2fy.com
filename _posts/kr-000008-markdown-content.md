@@ -24,7 +24,7 @@ GitHub默认支持Markdown,但Markdown原生不支持内容折叠的操作,经�
 
 ## 实现的效果
 
-![](https://v2fy.com/asset/kr008/kr008md001.gif)
+![](./kr-000008-markdown-content.assets/kr008md001.gif)
 
 
 ## 实现的方式很简单
@@ -71,7 +71,7 @@ GitHub默认支持Markdown,但Markdown原生不支持内容折叠的操作,经�
 以上方法还可以用于**你问我猜**, **脑筋急转弯**之类的小节目，用Markdown**展示问题，隐藏内容**，连PPT都省了
 
 
-![](https://v2fy.com/asset/kr008/kr008md002.gif)
+![](./kr-000008-markdown-content.assets/kr008md002.gif)
 
 
 只需将以下文本用Typora打开即可
@@ -115,7 +115,7 @@ Typora免费下载地址： https://typora.io/#download
 
 还有一个小技巧，如果你想让自己的名字,关键词，或一部分信息被Google收录，把这些信息加到Github的Star数量较多仓库, 是一个好办法, 因为Google对Github高Star仓库的权重排名是很高的,比如我的项目名为**谷粒-Chrome插件英雄榜**
 我搜索**谷粒**关键词
-![](https://v2fy.com/asset/kr008/kr008guli.png)
+![](./kr-000008-markdown-content.assets/kr008guli.png)
 GitHub的权重比百度百科还要要高, 这也是我不想把捐赠者名字移出README.md的原因~
 
 
