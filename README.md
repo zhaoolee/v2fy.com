@@ -1,7 +1,7 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2025年12月31日更新)
+## 目录(2026年03月26日更新)
 [Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://v2fy.com/p/windows-000001-copy-parse/)
 
 [(已作废)《资源》为台湾「表特日报」完成的小姐姐爬虫（附4000张成果图片）](https://v2fy.com/p/website-000007-music/)
@@ -355,6 +355,8 @@
 [某科学的超电磁炮为什么吸引人](https://v2fy.com/p/c-001/)
 
 [《弹幕》有哪些搞笑的弹幕？](https://v2fy.com/p/barrage-000001/)
+
+[使用Docker为电脑安装openclaw 2026.3.24尝鲜版](https://v2fy.com/p/2026-03-26-14-37-06-docker-openclaw/)
 
 [Claude Code使用指北（如何白嫖百万Qwen3 Token,每月劲省20刀)](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
 
