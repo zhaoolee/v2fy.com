@@ -1,7 +1,7 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2026年03月27日更新)
+## 目录(2026年04月18日更新)
 [Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://v2fy.com/p/windows-000001-copy-parse/)
 
 [(已作废)《资源》为台湾「表特日报」完成的小姐姐爬虫（附4000张成果图片）](https://v2fy.com/p/website-000007-music/)
@@ -355,6 +355,8 @@
 [某科学的超电磁炮为什么吸引人](https://v2fy.com/p/c-001/)
 
 [《弹幕》有哪些搞笑的弹幕？](https://v2fy.com/p/barrage-000001/)
+
+[通过Telegram自动化运维Windows，hermes实现自动回复微信群组消息](https://v2fy.com/p/2026-04-16-10-12-28-ssh-backend-hermes/)
 
 [使用Docker为电脑安装openclaw 2026.3.24尝鲜版](https://v2fy.com/p/2026-03-26-14-37-06-docker-openclaw/)
 
