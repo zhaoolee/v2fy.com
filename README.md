@@ -1,7 +1,7 @@
 # V2方圆的内容仓库
 
 ---start---
-## 目录(2026年05月08日更新)
+## 目录(2026年09月05日更新)
 [Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://v2fy.com/p/windows-000001-copy-parse/)
 
 [(已作废)《资源》为台湾「表特日报」完成的小姐姐爬虫（附4000张成果图片）](https://v2fy.com/p/website-000007-music/)
@@ -355,6 +355,8 @@
 [某科学的超电磁炮为什么吸引人](https://v2fy.com/p/c-001/)
 
 [《弹幕》有哪些搞笑的弹幕？](https://v2fy.com/p/barrage-000001/)
+
+[StickMe 隐私政策](https://v2fy.com/p/2026-09-05-stickme-privacy/)
 
 [6个月AI消费1万2000元的6条超值经验](https://v2fy.com/p/2026-05-07-14-41-15-1000-yuan/)
 
